@@ -1,13 +1,6 @@
 {
   "data": {
     "stations": [
-      {
-        "address": "Herrenberg Bahnhof",
-        "lat": 48.59376,
-        "lon": 8.86348,
-        "name": "Herrenberg Bahnhof",
-        "station_id": "1"
-      }
     ]
   },
   "last_updated": 1592904822,
