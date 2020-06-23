@@ -1,0 +1,15 @@
+{
+  "data": {
+    "stations": [
+      {
+        "address": "Kalkofenstr.",
+        "lat": 48.74514,
+        "lon": 9.1059,
+        "name": "Herrenberg Bahnhof",
+        "station_id": "1"
+      }
+    ]
+  },
+  "last_updated": 1592904822,
+  "ttl": 60000
+}

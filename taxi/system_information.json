@@ -1,0 +1,12 @@
+{
+  "data": {
+    "language": "DE",
+    "name": "Taxi Ranks",
+    "operator": "Taxi Herrenberg",
+    "system_id": "de.mfdz.flinkster.cab.regiorad_stuttgart",
+    "timezone": "CET",
+    "url": "https://www.regioradstuttgart.de/de"
+  },
+  "last_updated": 1592904490,
+  "ttl": 60000
+}
