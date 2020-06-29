@@ -2,47 +2,47 @@
   "data": {
     "stations": [
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "1"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 4,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "2"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "3"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "4"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "5"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "6"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "7"
       },
       {
-        "is_renting": "true",
-        "num_cars_available": 1,
+        "num_bikes_available": 0,
+        "is_renting": true,
         "station_id": "8"
       }
     ]
   },
-  "last_updated": 1593432720,
+  "last_updated": 1593435359,
   "ttl": 60000
 }
