@@ -26,7 +26,7 @@ for feature in source_data["features"]:
 		'station_id': str(i + 1)
 	})
 	status.append({
-		"num_cars_available": 0,
+		"num_bikes_available": 0,
 		"is_renting": True,
 		'station_id': str(i + 1)
 	})
