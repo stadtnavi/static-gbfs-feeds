@@ -1,8 +1,56 @@
 {
   "data": {
     "stations": [
+      {
+        "lat": 48.6867657,
+        "lon": 9.0043342,
+        "name": "B\u00f6blingen",
+        "station_id": "1"
+      },
+      {
+        "lat": 48.593325,
+        "lon": 8.8622458,
+        "name": "stadtmobil",
+        "station_id": "2"
+      },
+      {
+        "lat": 48.5944942,
+        "lon": 8.8715144,
+        "name": "Mariengarage Herrenberg",
+        "station_id": "3"
+      },
+      {
+        "lat": 48.6875071,
+        "lon": 9.0025313,
+        "name": "Bahnhof (Flugfeld-/Nordseite)",
+        "station_id": "4"
+      },
+      {
+        "lat": 48.6798495,
+        "lon": 8.9814351,
+        "name": "Hulb Bahnhof",
+        "station_id": "5"
+      },
+      {
+        "lat": 48.5542689,
+        "lon": 8.9661419,
+        "name": "teilAuto",
+        "station_id": "6"
+      },
+      {
+        "lat": 48.5229841,
+        "lon": 9.0358673,
+        "name": "Car-Sharing",
+        "station_id": "7"
+      },
+      {
+        "lat": 48.6408843,
+        "lon": 8.9078612,
+        "name": "G\u00e4rtringen",
+        "station_id": "8"
+      }
     ]
   },
-  "last_updated": 1592904822,
+  "last_updated": 1593431164,
   "ttl": 60000
 }
