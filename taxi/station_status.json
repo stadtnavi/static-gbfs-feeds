@@ -4,50 +4,50 @@
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "1"
+        "station_id": "taxi-1"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "2"
+        "station_id": "taxi-2"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "3"
+        "station_id": "taxi-3"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "4"
+        "station_id": "taxi-4"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "5"
+        "station_id": "taxi-5"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "6"
+        "station_id": "taxi-6"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "7"
+        "station_id": "taxi-7"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "8"
+        "station_id": "taxi-8"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "9"
+        "station_id": "taxi-9"
       }
     ]
   },
-  "last_updated": 1593509297,
+  "last_updated": 1593510584,
   "ttl": 60000
 }

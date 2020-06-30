@@ -2,55 +2,55 @@
   "data": {
     "stations": [
       {
-        "lat": 48.6867657,
-        "lon": 9.0043342,
+        "lat": 48.68677,
+        "lon": 9.00433,
         "name": "B\u00f6blingen",
-        "station_id": "1"
+        "station_id": "car-sharing-1"
       },
       {
-        "lat": 48.593325,
-        "lon": 8.8622458,
+        "lat": 48.59333,
+        "lon": 8.86225,
         "name": "stadtmobil",
-        "station_id": "2"
+        "station_id": "car-sharing-2"
       },
       {
-        "lat": 48.5944942,
-        "lon": 8.8715144,
+        "lat": 48.59449,
+        "lon": 8.87151,
         "name": "Mariengarage Herrenberg",
-        "station_id": "3"
+        "station_id": "car-sharing-3"
       },
       {
-        "lat": 48.6875071,
-        "lon": 9.0025313,
+        "lat": 48.68751,
+        "lon": 9.00253,
         "name": "Bahnhof (Flugfeld-/Nordseite)",
-        "station_id": "4"
+        "station_id": "car-sharing-4"
       },
       {
-        "lat": 48.6798495,
-        "lon": 8.9814351,
+        "lat": 48.67985,
+        "lon": 8.98144,
         "name": "Hulb Bahnhof",
-        "station_id": "5"
+        "station_id": "car-sharing-5"
       },
       {
-        "lat": 48.5542689,
-        "lon": 8.9661419,
+        "lat": 48.55427,
+        "lon": 8.96614,
         "name": "teilAuto",
-        "station_id": "6"
+        "station_id": "car-sharing-6"
       },
       {
-        "lat": 48.5229841,
-        "lon": 9.0358673,
+        "lat": 48.52298,
+        "lon": 9.03587,
         "name": "Car-Sharing",
-        "station_id": "7"
+        "station_id": "car-sharing-7"
       },
       {
-        "lat": 48.6408843,
-        "lon": 8.9078612,
+        "lat": 48.64088,
+        "lon": 8.90786,
         "name": "G\u00e4rtringen",
-        "station_id": "8"
+        "station_id": "car-sharing-8"
       }
     ]
   },
-  "last_updated": 1593431164,
+  "last_updated": 1593510646,
   "ttl": 60000
 }

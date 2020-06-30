@@ -12,6 +12,7 @@ with open(sourceFile) as source:
 
 info = []
 status = []
+type_name = destFolder.split("/")[-1]
 
 i = 0
 for feature in source_data["features"]:
@@ -23,12 +24,12 @@ for feature in source_data["features"]:
 		"lat": round(feature["geometry"]["coordinates"][1], 5),
 		"lon": round(feature["geometry"]["coordinates"][0], 5),
 		'name': name,
-		'station_id': str(i + 1)
+		'station_id': type_name + "-" + str(i + 1)
 	})
 	status.append({
 		"num_bikes_available": 0,
 		"is_renting": True,
-		'station_id': str(i + 1)
+		'station_id': type_name + "-" + str(i + 1)
 	})
 	i += 1
 

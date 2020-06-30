@@ -4,45 +4,45 @@
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "1"
+        "station_id": "car-sharing-1"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "2"
+        "station_id": "car-sharing-2"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "3"
+        "station_id": "car-sharing-3"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "4"
+        "station_id": "car-sharing-4"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "5"
+        "station_id": "car-sharing-5"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "6"
+        "station_id": "car-sharing-6"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "7"
+        "station_id": "car-sharing-7"
       },
       {
         "num_bikes_available": 0,
         "is_renting": true,
-        "station_id": "8"
+        "station_id": "car-sharing-8"
       }
     ]
   },
-  "last_updated": 1593435359,
+  "last_updated": 1593510646,
   "ttl": 60000
 }
