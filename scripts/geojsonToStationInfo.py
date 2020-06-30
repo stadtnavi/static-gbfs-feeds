@@ -20,8 +20,8 @@ for feature in source_data["features"]:
 	else:
 		name = feature['properties']['name']
 	info.append({
-		"lat": feature["geometry"]["coordinates"][1],
-		"lon": feature["geometry"]["coordinates"][0],
+		"lat": round(feature["geometry"]["coordinates"][1], 5),
+		"lon": round(feature["geometry"]["coordinates"][0], 5),
 		'name': name,
 		'station_id': str(i + 1)
 	})
