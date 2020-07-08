@@ -1,0 +1,13 @@
+{
+  "data": {
+    "stations": [
+      {
+        "num_bikes_available": 1,
+        "is_renting": true,
+        "station_id": "7bd6d9cb-509b-4378-83db-cebb44ee1f6f2"
+      }
+    ],
+    "last_updated": 1593510584,
+    "ttl": 60000
+  }
+}
