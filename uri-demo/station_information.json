@@ -2,9 +2,9 @@
   "data": {
     "stations": [
       {
-        "lat": 48.59449,
-        "lon": 8.86208,
-        "name": "Bhf. Herrenberg / Kalkofenstraße",
+        "lat": 48.59314,
+        "lon": 8.86644,
+        "name": "Demo Bike Station",
         "station_id": "7bd6d9cb-509b-4378-83db-cebb44ee1f6f2",
         "rental_uris": {
           "web":"https://www.abc.com/app?sid=1234567890"
