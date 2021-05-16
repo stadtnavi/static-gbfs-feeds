@@ -14,6 +14,10 @@
           "url": "station_information.json"
         },
         {
+          "name": "station_status",
+          "url": "station_status.json"
+        },
+        {
           "name": "system_alerts",
           "url": "system_alerts.json"
         },
