@@ -1,0 +1,15 @@
+{
+  "last_updated": {{timestamp}},
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "language": "DE",
+    "name": "Gültstein mobil",
+    "operator": "Gültstein mobil",
+    "system_id": "de.gueltsteinmobil.gbfs",
+    "timezone": "Europe/Berlin",
+    "url": "https://gueltsteinmobil.de/",
+    "feed_contact_mail": "support@herrenberg.stadtnavi.de",
+    "mail": "buchung@gueltsteinmobil.de"
+  },
+}

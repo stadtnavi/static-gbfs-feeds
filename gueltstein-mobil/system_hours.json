@@ -1,0 +1,21 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "rental_hours": [
+      {
+        "user_types": [ "member" ],
+        "days": ["tue", "fri"],
+        "start_time": "10:00:00",
+        "end_time": "19:00:00"
+      },
+      {
+        "user_types": [ "member" ],
+        "days": ["wed", "thu"],
+        "start_time": "15:00:00",
+        "end_time": "19:00:00"
+      }
+    ]
+  }
+}

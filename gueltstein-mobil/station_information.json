@@ -1,0 +1,24 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "lat": 48.576368,
+        "lon": 8.880580,
+        "name": "Lastenrad Gülf",
+        "station_id": "guelf",
+        "address": "Grünewaldstraße 6",
+        "post_code": "70183",
+        "is_virtual_station": true,
+        "vehicle_type_capacity": {
+          "cargobike1": 1
+        },
+        "rental_uris": {
+          "web": "https://gueltsteinmobil.de/guelf-unser-lastenfahrrad"
+        }
+      }
+    ]
+  }
+}

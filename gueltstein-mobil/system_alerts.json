@@ -1,0 +1,16 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 60,
+  "version": "2.2",
+  "data":{
+    "alerts":[
+      {
+        "alert_id": "1",
+        "type": "other",
+        "url":"https://gueltsteinmobil.de/guelf-unser-lastenfahrrad",
+        "summary":"Vorankündigung",
+        "description": "Wir freuen uns auf Gülf - das Gültsteiner Lastenrad. Es wird voraussichtlich ab Mitte / Ende Mai 2021 den Gültsteinerinnen und Gültsteinern zum Ausleihen zur Verfügung stehen."
+      }
+    ]
+  }
+}
