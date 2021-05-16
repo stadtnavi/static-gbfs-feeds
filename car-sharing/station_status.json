@@ -4,45 +4,1085 @@
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-1"
+        "station_id": "10102"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-2"
+        "station_id": "10103"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-3"
+        "station_id": "10104"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-4"
+        "station_id": "10106"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-5"
+        "station_id": "10107"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-6"
+        "station_id": "10108"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-7"
+        "station_id": "10110"
       },
       {
         "num_bikes_available": -1,
         "is_renting": true,
-        "station_id": "car-sharing-8"
+        "station_id": "10112"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10113"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10204"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10205"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10207"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10303"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10305"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10306"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10307"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10308"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10310"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10312"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10313"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10314"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10315"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10316"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10319"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10320"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10321"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10322"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10323"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10401"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10403"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10405"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10406"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10407"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10408"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10409"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10502"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10504"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10505"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10507"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10510"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10511"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10512"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10513"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10515"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10516"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10517"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10520"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10522"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10528"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10529"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10530"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10531"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10533"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10534"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10535"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10536"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10537"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10538"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10539"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10540"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10601"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10602"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10604"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10605"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10606"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10608"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10609"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10610"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10611"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "10612"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11105"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11106"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11108"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11109"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11110"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11111"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11112"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11114"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11115"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11116"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11117"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11202"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11204"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11205"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11206"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11208"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11209"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11210"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11212"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11213"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11302"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11303"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11401"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11402"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11404"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11405"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11406"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11601"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11602"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11604"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11605"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11606"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11701"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "11901"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12001"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12003"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12004"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12005"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12006"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12105"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12302"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12402"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12501"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12503"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12601"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12602"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12701"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12801"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12802"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12901"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12902"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "12903"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13001"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13202"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13401"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13501"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13601"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13701"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "13801"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20105"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20401"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20501"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20502"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20503"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "20701"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "30104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "30106"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "40102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "50102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "50103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "60101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "60103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "60104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70105"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70106"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70107"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "70108"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "80103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "80104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "90101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "90102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "130101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "130201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "140101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "140102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "140203"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "140205"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "150104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "160101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "170101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "180102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "190101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "200102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "200103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "220102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "230102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240103"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240104"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240105"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240106"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240107"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240108"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240109"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240110"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240203"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240501"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "240502"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250102"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250202"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250203"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250301"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "250302"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "260201"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "270101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "280101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "290101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "300101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "310101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "320101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "330101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "360101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "390101"
+      },
+      {
+        "num_bikes_available": -1,
+        "is_renting": true,
+        "station_id": "400101"
       }
     ]
   },
-  "last_updated": 1593510646,
-  "ttl": 60000
+  "last_updated": 1621184439,
+  "ttl": 86400
 }

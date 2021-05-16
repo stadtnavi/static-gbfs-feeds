@@ -2,55 +2,2158 @@
   "data": {
     "stations": [
       {
-        "lat": 48.68677,
-        "lon": 9.00433,
-        "name": "B\u00f6blingen",
-        "station_id": "car-sharing-1"
+        "lat": 48.7824268,
+        "lon": 9.182550609,
+        "name": "Hauptbahnhof - i-Punkt",
+        "address": "Schillerstra\u00dfe 23, 70173 Stuttgart",
+        "station_id": "10102",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+        }
       },
       {
-        "lat": 48.59333,
-        "lon": 8.86225,
-        "name": "stadtmobil",
-        "station_id": "car-sharing-2"
+        "lat": 48.77485132,
+        "lon": 9.187059402,
+        "name": "Olgaeck",
+        "address": "Gaisburgstr. 4, 70182 Stuttgart",
+        "station_id": "10103",
+        "capacity": 12,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/olgaeck"
+        }
       },
       {
-        "lat": 48.59449,
-        "lon": 8.87151,
-        "name": "Mariengarage Herrenberg",
-        "station_id": "car-sharing-3"
+        "lat": 48.77093763,
+        "lon": 9.18643713,
+        "name": "Dobelstra\u00dfe (Nagelstra\u00dfe)",
+        "address": "Nagelstr. 4, 70182 Stuttgart",
+        "station_id": "10104",
+        "capacity": 8,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/dobelstr-nagelstr"
+        }
       },
       {
-        "lat": 48.68751,
-        "lon": 9.00253,
+        "lat": 48.78245008,
+        "lon": 9.17887509,
+        "name": "Hauptbahnhof - Kronenstra\u00dfe 15",
+        "address": "Kronenstr. 15, 70173 Stuttgart",
+        "station_id": "10106",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-kronenstrasse-15"
+        }
+      },
+      {
+        "lat": 48.78184003,
+        "lon": 9.17824566,
+        "name": "Hauptbahnhof - Lautenschlagerstra\u00dfe 20",
+        "address": "Lautenschlagerstr. 20, 70173 Stuttgart",
+        "station_id": "10107",
+        "capacity": 6,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-lautenschlagerstr-20"
+        }
+      },
+      {
+        "lat": 48.77172959,
+        "lon": 9.18767899,
+        "name": "Hohenheimer Stra\u00dfe (Bethesda Krankenhaus)",
+        "address": "Hohenheimer Str. 21, 70184 Stuttgart",
+        "station_id": "10108",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hohenheimer-str-bethesda-krankenhaus"
+        }
+      },
+      {
+        "lat": 48.776957,
+        "lon": 9.172986,
+        "name": "Gymnasiumstra\u00dfe",
+        "address": "Gymnasiumstr. 31, 70174 Stuttgart",
+        "station_id": "10110",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gymnasiumstrasse"
+        }
+      },
+      {
+        "lat": 48.773305,
+        "lon": 9.1697,
+        "name": "Paulinenstra\u00dfe",
+        "address": "Paulinenstr. 47, 70178 Stuttgart",
+        "station_id": "10112",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/paulinenstrasse"
+        }
+      },
+      {
+        "lat": 48.462,
+        "lon": 9.105,
+        "name": "Charlottenplatz ",
+        "address": "Esslinger Str. 1, 70173 Stuttgart",
+        "station_id": "10113",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/charlottenplatz-1"
+        }
+      },
+      {
+        "lat": 48.79173051,
+        "lon": 9.179377556,
+        "name": "T\u00fcrlenstra\u00dfe",
+        "address": "T\u00fcrlenstr. 22, 70191 Stuttgart",
+        "station_id": "10201",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/tuerlenstr"
+        }
+      },
+      {
+        "lat": 48.80159018,
+        "lon": 9.190704525,
+        "name": "Goppeltstra\u00dfe",
+        "address": "Goppeltstr. 3, 70191 Stuttgart",
+        "station_id": "10204",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/goppeltstr-5"
+        }
+      },
+      {
+        "lat": 48.79923336,
+        "lon": 9.1744557,
+        "name": "Killesberg / Brenzkirche",
+        "address": "Am Kochenhof 5, 70192 Stuttgart",
+        "station_id": "10205",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/killesberg-brenzkirche"
+        }
+      },
+      {
+        "lat": 48.79548202,
+        "lon": 9.1893319,
+        "name": "Milchhof (Eckartstra\u00dfe)",
+        "address": "Eckartstr. 4A, 70191 Stuttgart",
+        "station_id": "10207",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/milchhof-eckartstrasse"
+        }
+      },
+      {
+        "lat": 48.78427543,
+        "lon": 9.209058881,
+        "name": "Ostendplatz",
+        "address": "Sch\u00f6nb\u00fchlstr. 65, 70188 Stuttgart",
+        "station_id": "10301",
+        "capacity": 15,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ostendplatz"
+        }
+      },
+      {
+        "lat": 48.789289,
+        "lon": 9.195030928,
+        "name": "St\u00f6ckach",
+        "address": "Neckarstr. 149, 70190 Stuttgart",
+        "station_id": "10303",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/stoeckach"
+        }
+      },
+      {
+        "lat": 48.78267423,
+        "lon": 9.221085906,
+        "name": "Gaisburg/Landhausstra\u00dfe",
+        "address": "Landhausstra\u00dfe 273, 70188 Stuttgart",
+        "station_id": "10305",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gaisburg-landhausstr"
+        }
+      },
+      {
+        "lat": 48.77886485,
+        "lon": 9.208989143,
+        "name": "Gablenberg/Klingenstra\u00dfe",
+        "address": "Klingenstr. 60, 70186 Stuttgart",
+        "station_id": "10306",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gablenberg-klingenstr"
+        }
+      },
+      {
+        "lat": 48.78113661,
+        "lon": 9.20422554,
+        "name": "Wunnensteinstra\u00dfe 107",
+        "address": "Wunnensteinstra\u00dfe 27, 70188 Stuttgart",
+        "station_id": "10307",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/wunnensteinstrasse-27"
+        }
+      },
+      {
+        "lat": 48.78194254,
+        "lon": 9.188754559,
+        "name": "Urbanstra\u00dfe 49",
+        "address": "Urbanstr. 49, 70182 Stuttgart ",
+        "station_id": "10308",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/urbanstrasse-49"
+        }
+      },
+      {
+        "lat": 48.77431042,
+        "lon": 9.193920493,
+        "name": "Bubenbad",
+        "address": "Gerokstra\u00dfe 51, 70184 Stuttgart",
+        "station_id": "10310",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bubenbad"
+        }
+      },
+      {
+        "lat": 48.78082555,
+        "lon": 9.21022296,
+        "name": "Wagenburgstra\u00dfe",
+        "address": "Wagenburgstr. 164, 70186 Stuttgart",
+        "station_id": "10312",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/wagenburgstrasse"
+        }
+      },
+      {
+        "lat": 48.79085994,
+        "lon": 9.19888258,
+        "name": "Neckarstra\u00dfe 180",
+        "address": "Neckarstra\u00dfe 180, 70190 Stuttgart",
+        "station_id": "10313",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/neckarstrasse-180"
+        }
+      },
+      {
+        "lat": 48.77439615,
+        "lon": 9.20339674,
+        "name": "Gablenberg/Schmalzmarkt",
+        "address": "Gablenberger Hauptstr. 129, 70186 Stuttgart",
+        "station_id": "10314",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gablenberg-schmalzmarkt"
+        }
+      },
+      {
+        "lat": 48.78808027,
+        "lon": 9.19184446,
+        "name": "Heilmannstra\u00dfe (Neckartor)",
+        "address": "Heilmannstr. 4, 70190 Stuttgart",
+        "station_id": "10315",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/heilmannstr-neckartor"
+        }
+      },
+      {
+        "lat": 48.78256377,
+        "lon": 9.20838431,
+        "name": "Ostendstra\u00dfe 105",
+        "address": "Ostendstr. 105, 70188 Stuttgart",
+        "station_id": "10316",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ostendstrasse-105"
+        }
+      },
+      {
+        "lat": 48.7812534,
+        "lon": 9.20042686,
+        "name": "H\u00f6scheleweg 4",
+        "address": "H\u00f6scheleweg 4, 70188 Stuttgart",
+        "station_id": "10319",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hoescheleweg-4"
+        }
+      },
+      {
+        "lat": 48.778955,
+        "lon": 9.207111,
+        "name": "Gablenberger Hauptstr. 32",
+        "address": "Gablenberger Hauptstr. 32, 70186 Stuttgart",
+        "station_id": "10320",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gablenberger-hauptstrasse-32"
+        }
+      },
+      {
+        "lat": 48.78895919,
+        "lon": 9.208879,
+        "name": "Raitelsberg (Hackstra\u00dfe)",
+        "address": "Hackstra\u00dfe 89, 70190 Stuttgart",
+        "station_id": "10321",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/raitelsberg-hackstrasse"
+        }
+      },
+      {
+        "lat": 48.785626,
+        "lon": 9.200501,
+        "name": "Hau\u00dfmannstr./Rotenbergstr.",
+        "address": "Hau\u00dfmannstr. 105, 70188 Stuttgart",
+        "station_id": "10322",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/haussmannstr-rotenbergstr"
+        }
+      },
+      {
+        "lat": 48.781752,
+        "lon": 9.206816,
+        "name": "K\u00fcbler Areal",
+        "address": "Ostendstr. 110, 70188 Stuttgart",
+        "station_id": "10323",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/kuebler-areal"
+        }
+      },
+      {
+        "lat": 48.76477482,
+        "lon": 9.174002409,
+        "name": "Markuskirche",
+        "address": "R\u00f6merstra\u00dfe 41, 70180 Stuttgart",
+        "station_id": "10401",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/markuskirche"
+        }
+      },
+      {
+        "lat": 48.77029294,
+        "lon": 9.17469844,
+        "name": "\u00d6sterreichischer Platz",
+        "address": "Hauptst\u00e4tter Str. 66, 70178 Stuttgart",
+        "station_id": "10403",
+        "capacity": 10,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/oesterreichischer-platz"
+        }
+      },
+      {
+        "lat": 48.76449371,
+        "lon": 9.17848438,
+        "name": "Neue Weinsteige 18",
+        "address": "Neue Weinsteige 18, 70180 Stuttgart",
+        "station_id": "10405",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/neue-weinsteige-18"
+        }
+      },
+      {
+        "lat": 48.76539715,
+        "lon": 9.17246819,
+        "name": "R\u00f6merstra\u00dfe",
+        "address": "R\u00f6merstra\u00dfe 30, 70180 Stuttgart",
+        "station_id": "10406",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/roemerstrasse"
+        }
+      },
+      {
+        "lat": 48.76674078,
+        "lon": 9.17449862,
+        "name": "Fangelsbachstra\u00dfe 28b",
+        "address": "Fangelsbachstr. 28, 70180 Stuttgart",
+        "station_id": "10407",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/fangelsbachstr-28b"
+        }
+      },
+      {
+        "lat": 48.76983277,
+        "lon": 9.177614,
+        "name": "Schlosserstra\u00dfe 9",
+        "address": "Schlosserstr. 9, 70180 Stuttgart",
+        "station_id": "10408",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schlosserstr-9"
+        }
+      },
+      {
+        "lat": 48.771246,
+        "lon": 9.177691,
+        "name": "Hauptst\u00e4tter Str. (Wilhelmsplatz)",
+        "address": "Hauptst\u00e4tter Str. 53, 70182 Stuttgart",
+        "station_id": "10409",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptstaetter-str-wilhelmsplatz"
+        }
+      },
+      {
+        "lat": 48.77058762,
+        "lon": 9.159952998,
+        "name": "Reuchlinstra\u00dfe",
+        "address": "Reuchlinstra\u00dfe 17, 70178 Stuttgart",
+        "station_id": "10502",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/reuchlinstrasse"
+        }
+      },
+      {
+        "lat": 48.76972316,
+        "lon": 9.155519307,
+        "name": "Schwabstra\u00dfe",
+        "address": "Roteb\u00fchlstr. 145, 70197 Stuttgart",
+        "station_id": "10504",
+        "capacity": 15,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schwabstrasse"
+        }
+      },
+      {
+        "lat": 48.78123558,
+        "lon": 9.164743423,
+        "name": "Hoppenlau-Schule",
+        "address": "Rosenbergstr. 17, 70176 Stuttgart",
+        "station_id": "10505",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hoppenlau-schule"
+        }
+      },
+      {
+        "lat": 48.77664454,
+        "lon": 9.161852,
+        "name": "Schlo\u00df-/Johannesstra\u00dfe",
+        "address": "Johannesstr. 31, 70176 Stuttgart",
+        "station_id": "10507",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schloss-johannesstr"
+        }
+      },
+      {
+        "lat": 48.77489551,
+        "lon": 9.161353111,
+        "name": "Senefelderstr. 52 (Post)",
+        "address": "Senefelder Str. 52, 70176 Stuttgart",
+        "station_id": "10510",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/senefelderstr-52-post"
+        }
+      },
+      {
+        "lat": 48.77357684,
+        "lon": 9.16836977,
+        "name": "Herzogstra\u00dfe (Finanzamt)",
+        "address": "Herzogstr. 2, 70176 Stuttgart",
+        "station_id": "10511",
+        "capacity": 9,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/herzogstr-finanzamt"
+        }
+      },
+      {
+        "lat": 48.77348433,
+        "lon": 9.161932468,
+        "name": "Senefelderstr. 35b / Hinterhof",
+        "address": "Senefelder Stra\u00dfe 35, 70176 Stuttgart",
+        "station_id": "10512",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/senefelder-str-35b-hinterhof"
+        }
+      },
+      {
+        "lat": 48.77408239,
+        "lon": 9.143680036,
+        "name": "Vogelsang (Herderstra\u00dfe)",
+        "address": "Herderstr. 18, 70193 Stuttgart",
+        "station_id": "10513",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/vogelsang-herderstrasse"
+        }
+      },
+      {
+        "lat": 48.77613283,
+        "lon": 9.147950113,
+        "name": "Paul-Gerhardt-Kirche",
+        "address": "Scheffelstr. 35, 70193 Stuttgart",
+        "station_id": "10515",
+        "capacity": 5,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/paul-gerhardt-kirche"
+        }
+      },
+      {
+        "lat": 48.7859508,
+        "lon": 9.166213274,
+        "name": "Azenbergstra\u00dfe",
+        "address": "Azenbergstr. 12, 70174 Stuttgart",
+        "station_id": "10516",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/azenbergstrasse"
+        }
+      },
+      {
+        "lat": 48.7723094,
+        "lon": 9.14883256,
+        "name": "Rotenwaldstra\u00dfe",
+        "address": "Rotenwaldstr. 68, 70197 Stuttgart",
+        "station_id": "10517",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rotenwaldstrasse"
+        }
+      },
+      {
+        "lat": 48.77104724,
+        "lon": 9.156739712,
+        "name": "Gutenbergstra\u00dfe",
+        "address": "Gutenbergstra\u00dfe 75, 70197 Stuttgart",
+        "station_id": "10520",
+        "capacity": 5,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gutenbergstrasse"
+        }
+      },
+      {
+        "lat": 48.78444509,
+        "lon": 9.1613692,
+        "name": "Russische Kirche",
+        "address": "Hegelstra\u00dfe 51, 70174 Stuttgart",
+        "station_id": "10522",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/russische-kirche"
+        }
+      },
+      {
+        "lat": 48.7733382,
+        "lon": 9.15352106,
+        "name": "Rossbolleng\u00e4ssle (R\u00f6testra\u00dfe)",
+        "address": "R\u00f6testr. 65, 70197 Stuttgart",
+        "station_id": "10528",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rossbollengaessle-roetestrasse"
+        }
+      },
+      {
+        "lat": 48.77773158,
+        "lon": 9.16602485,
+        "name": "Schlo\u00dfstra\u00dfe 60",
+        "address": "Schlossstra\u00dfe 60, 70176 Stuttgart",
+        "station_id": "10529",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schlossstrasse-60"
+        }
+      },
+      {
+        "lat": 48.77999308,
+        "lon": 9.15806204,
+        "name": "Lerchenstra\u00dfe 73",
+        "address": "Lerchenstra\u00dfe 73, 70176 Stuttgart",
+        "station_id": "10530",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/lerchenstrasse-73"
+        }
+      },
+      {
+        "lat": 48.78035629,
+        "lon": 9.16088641,
+        "name": "Rosenbergstra\u00dfe 52",
+        "address": "Rosenbergstr. 52, 70193 Stuttgart",
+        "station_id": "10531",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rosenbergstrasse-52"
+        }
+      },
+      {
+        "lat": 48.77528969,
+        "lon": 9.16522622,
+        "name": "Silberburg-/Ludwigstra\u00dfe",
+        "address": "Silberburgstra\u00dfe 126, 70176 Stuttgart",
+        "station_id": "10533",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/silberburg-ludwigstrasse"
+        }
+      },
+      {
+        "lat": 48.78351637,
+        "lon": 9.15976122,
+        "name": "H\u00f6lderlinplatz/Silberburgstr. 23",
+        "address": "Silberburgstr. 23, 70176 Stuttgart",
+        "station_id": "10534",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hoelderlinplatz-silberburgstr23"
+        }
+      },
+      {
+        "lat": 48.77826827,
+        "lon": 9.16147381,
+        "name": "Friedrich-Eugens-Gymnasium",
+        "address": "Lindensp\u00fcrstr. 25, 70176 Stuttgart",
+        "station_id": "10535",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/friedrich-eugens-gymnasium"
+        }
+      },
+      {
+        "lat": 48.77550923,
+        "lon": 9.15185206,
+        "name": "Seyfferstra\u00dfe 103A",
+        "address": "Seyfferstr. 103 A, 70193 Stuttgart",
+        "station_id": "10536",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/seyfferstr-103-a"
+        }
+      },
+      {
+        "lat": 48.77071873,
+        "lon": 9.16279748,
+        "name": "Augustenstra\u00dfe 60",
+        "address": "Augustenstr. 58 a, 70178 Stuttgart",
+        "station_id": "10537",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/augustenstrasse-60"
+        }
+      },
+      {
+        "lat": 48.77028314,
+        "lon": 9.14424263,
+        "name": "Westbahnhof",
+        "address": "Klugestra\u00dfe 40, 70197 Stuttgart",
+        "station_id": "10538",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/westbahnhof"
+        }
+      },
+      {
+        "lat": 48.774985,
+        "lon": 9.15543,
+        "name": "Schwab-Bebelstra\u00dfe",
+        "address": "Bebelstr. 18, 70193 Stuttgart",
+        "station_id": "10539",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schwab-bebelstrasse-1"
+        }
+      },
+      {
+        "lat": 48.770811,
+        "lon": 9.159218,
+        "name": "Roteb\u00fchlstra\u00dfe/Ecke Reuchlinstra\u00dfe",
+        "address": "Roteb\u00fchlstr. 121, 70178 Stuttgart",
+        "station_id": "10540",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rotebuehl-ecke-reuchlinstr"
+        }
+      },
+      {
+        "lat": 48.76336926,
+        "lon": 9.159365594,
+        "name": "Erwin-Schoettle-Platz/Schickhardtstra\u00dfe",
+        "address": "Schickhardtstr. 11, 70199 Stuttgart",
+        "station_id": "10601",
+        "capacity": 6,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/erwin-schoettle-platz"
+        }
+      },
+      {
+        "lat": 48.757,
+        "lon": 9.145,
+        "name": "S\u00fcdheimer Platz/Leonberger Str.",
+        "address": "B\u00f6blinger Stra\u00dfe 226, 70199 Stuttgart",
+        "station_id": "10602",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/suedheimer-platz-leonberger-str"
+        }
+      },
+      {
+        "lat": 48.76111614,
+        "lon": 9.154679775,
+        "name": "B\u00f6ckler-/Kelterstra\u00dfe",
+        "address": "B\u00f6cklerstr. 7, 70199 Stuttgart",
+        "station_id": "10604",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/boeckler-kelterstr"
+        }
+      },
+      {
+        "lat": 48.76134482,
+        "lon": 9.158113003,
+        "name": "M\u00f6hringer Stra\u00dfe 66",
+        "address": "M\u00f6hringer Stra\u00dfe 66, 70199 Stuttgart",
+        "station_id": "10605",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/moehringer-str-66"
+        }
+      },
+      {
+        "lat": 48.7548643,
+        "lon": 9.141445756,
+        "name": "Burgstallstra\u00dfe",
+        "address": "Burgstallstra\u00dfe 122, 70199 Stuttgart",
+        "station_id": "10606",
+        "capacity": 8,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/burgstallstr"
+        }
+      },
+      {
+        "lat": 48.7599144,
+        "lon": 9.15434182,
+        "name": "M\u00f6hringer Str. 99 (Hotel Hottmann)",
+        "address": "M\u00f6hringer Str. 106, 70199 Stuttgart",
+        "station_id": "10608",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/moehringer-str-99-hotel-hottmann"
+        }
+      },
+      {
+        "lat": 48.7652451,
+        "lon": 9.16180372,
+        "name": "Adlerstra\u00dfe",
+        "address": "Adlerstr. 51, 70199 Stuttgart",
+        "station_id": "10609",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/adlerstrasse"
+        }
+      },
+      {
+        "lat": 48.76144295,
+        "lon": 9.16128471,
+        "name": "B\u00f6heimstra\u00dfe 64",
+        "address": "B\u00f6heimstra\u00dfe 64, 70199 Stuttgart",
+        "station_id": "10610",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/boeheimstrasse-64"
+        }
+      },
+      {
+        "lat": 48.75766349,
+        "lon": 9.14708242,
+        "name": "S\u00fcdheimer Platz/Hohentwielstr.",
+        "address": "Hohentwielstr. 175, 70199 Stuttgart",
+        "station_id": "10611",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/suedheimer-platz-hohentwielstr"
+        }
+      },
+      {
+        "lat": 48.762628,
+        "lon": 9.160237,
+        "name": "Erwin-Schoettle-Platz/Matth\u00e4uskirche",
+        "address": "Wolffstra\u00dfe 1, 70199 Stuttgart",
+        "station_id": "10612",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/erwin-schoettle-platz-matthaeuskirche"
+        }
+      },
+      {
+        "lat": 48.801478,
+        "lon": 9.219258,
+        "name": "Bahnhof Cannstatt",
+        "address": "Bahnhofstra\u00dfe 35, 70372 Stuttgart",
+        "station_id": "11102",
+        "capacity": 6,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/cannstatt-bahnhof"
+        }
+      },
+      {
+        "lat": 48.80192408,
+        "lon": 9.219090343,
+        "name": "Bahnhofstra\u00dfe (Agentur f\u00fcr Arbeit)",
+        "address": "Bahnhofstr. 29, 70372 Stuttgart",
+        "station_id": "11105",
+        "capacity": 6,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/cannstatt-bahnhofstr-agentur-fuer-arbeit"
+        }
+      },
+      {
+        "lat": 48.804,
+        "lon": 9.229,
+        "name": "Wildunger Str. 73",
+        "address": "Wildunger Str. 73, 70372 Stuttgart",
+        "station_id": "11106",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/wildunger-str-733"
+        }
+      },
+      {
+        "lat": 48.80829784,
+        "lon": 9.243216813,
+        "name": "Antwerpener Stra\u00dfe",
+        "address": "N\u00fcrnberger Str. 106, 70374 Stuttgart",
+        "station_id": "11108",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/antwerpener-str"
+        }
+      },
+      {
+        "lat": 48.8150311,
+        "lon": 9.245756865,
+        "name": "Sommerrain",
+        "address": "Sommerrainstr. 77, 70374 Stuttgart",
+        "station_id": "11109",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sommerrain"
+        }
+      },
+      {
+        "lat": 48.80782531,
+        "lon": 9.236748666,
+        "name": "Obere Waiblinger Str. 147",
+        "address": "Obere Waiblinger Str. 147, 70374 Stuttgart",
+        "station_id": "11110",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/obere-waiblinger-strasse-147"
+        }
+      },
+      {
+        "lat": 48.8193599,
+        "lon": 9.190227091,
+        "name": "Burgholzhof",
+        "address": "Mahatma-Gandhi-Str. 13, 70376 Stuttgart",
+        "station_id": "11111",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/burgholzhof"
+        }
+      },
+      {
+        "lat": 48.80705336,
+        "lon": 9.214686155,
+        "name": "M\u00fchlgr\u00fcn",
+        "address": "\u00dcberkinger Str. 15, 70372 Stuttgart",
+        "station_id": "11112",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/muehlgruen"
+        }
+      },
+      {
+        "lat": 48.81320012,
+        "lon": 9.21130523,
+        "name": "R\u00f6merkastell",
+        "address": "Naststr. 13, 70376 Stuttgart",
+        "station_id": "11114",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/roemerkastell"
+        }
+      },
+      {
+        "lat": 48.80786063,
+        "lon": 9.21144515,
+        "name": "Martinskirche",
+        "address": "Duisburger Str. 29, 70376 Stuttgart",
+        "station_id": "11115",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/martinskirche"
+        }
+      },
+      {
+        "lat": 48.80728,
+        "lon": 9.233243,
+        "name": "N\u00fcrnberger Stra\u00dfe",
+        "address": "Obere Waiblinger Str. 127, 70374 Stuttgart",
+        "station_id": "11116",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/nuernberger-strasse"
+        }
+      },
+      {
+        "lat": 48.803225,
+        "lon": 9.220691,
+        "name": "D\u00fcrrheimer Stra\u00dfe",
+        "address": "D\u00fcrrheimer Str. 11, 70372 Stuttgart",
+        "station_id": "11117",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/duerrheimer-str-11"
+        }
+      },
+      {
+        "lat": 48.74527372,
+        "lon": 9.107590914,
+        "name": "Universit\u00e4t (1)",
+        "address": "Universit\u00e4tsstra\u00dfe 38, 70569 Stuttgart",
+        "station_id": "11201",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/universitaet"
+        }
+      },
+      {
+        "lat": 48.73058985,
+        "lon": 9.11,
+        "name": "Vaihinger Markt",
+        "address": "Vaihinger Markt 22, 70563 Stuttgart",
+        "station_id": "11202",
+        "capacity": 7,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/vaihinger-markt"
+        }
+      },
+      {
+        "lat": 48.73644139,
+        "lon": 9.114156961,
+        "name": "\u00d6sterfeld",
+        "address": "Paradiesstr. 112, 70563 Stuttgart",
+        "station_id": "11204",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/oesterfeld"
+        }
+      },
+      {
+        "lat": 48.73277828,
+        "lon": 9.110324085,
+        "name": "Stadtkirche",
+        "address": "Katzenbachstr. 27, 70563 Stuttgart",
+        "station_id": "11205",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/stadtkirche"
+        }
+      },
+      {
+        "lat": 48.73371543,
+        "lon": 9.09934245,
+        "name": "B\u00fcsnauer Str./Katzenbachstr.",
+        "address": "Katzenbachstr. 109, 70563 Stuttgart",
+        "station_id": "11206",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/buesnauer-strasse-katzenbachstrasse"
+        }
+      },
+      {
+        "lat": 48.7287503,
+        "lon": 9.11552221,
+        "name": "Scharrstra\u00dfe",
+        "address": "Scharrstr. 2, 70563 Stuttgart",
+        "station_id": "11208",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/scharrstrasse"
+        }
+      },
+      {
+        "lat": 48.73099853,
+        "lon": 9.097597,
+        "name": "Heerstra\u00dfe",
+        "address": "Heerstr. 12, 70563 Stuttgart",
+        "station_id": "11209",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/heerstrasse"
+        }
+      },
+      {
+        "lat": 48.73258368,
+        "lon": 9.10679698,
+        "name": "Katzenbach-/Seerosenstr.",
+        "address": "Seerosenstra\u00dfe 37, 70563 Stuttgart",
+        "station_id": "11210",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/katzenbach-seerosenstr"
+        }
+      },
+      {
+        "lat": 48.726809,
+        "lon": 9.116243,
+        "name": "Vaihingen Bahnhof / Schockenriedstra\u00dfe",
+        "address": "Schockenriedstr: 1, 70565 Stuttgart",
+        "station_id": "11212",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/vaihingen-bahnhof-schockenriedstrasse"
+        }
+      },
+      {
+        "lat": 48.444,
+        "lon": 9.062,
+        "name": "Universit\u00e4t (2)",
+        "address": "Universit\u00e4tstr. 28 -34",
+        "station_id": "11213",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/universitaet-2"
+        }
+      },
+      {
+        "lat": 48.74052992,
+        "lon": 9.129748642,
+        "name": "Schwarzwaldstra\u00dfe",
+        "address": "Schwarzwaldstr. 6, 70569 Stuttgart",
+        "station_id": "11302",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schwarzwaldstrasse"
+        }
+      },
+      {
+        "lat": 48.73820562,
+        "lon": 9.12829354,
+        "name": "Engelboldstra\u00dfe",
+        "address": "B\u00f6blinger Str. 504, 70569 Stuttgart",
+        "station_id": "11303",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/engelboldstr"
+        }
+      },
+      {
+        "lat": 48.7300414,
+        "lon": 9.148204923,
+        "name": "M\u00f6hringer Bahnhof",
+        "address": "Holdermannstr. 34, 70567 Stuttgart",
+        "station_id": "11401",
+        "capacity": 6,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/moehringen-bahnhof"
+        }
+      },
+      {
+        "lat": 48.72257656,
+        "lon": 9.146858454,
+        "name": "Jelinstra\u00dfe",
+        "address": "Jelinstr. 10, 70567 Stuttgart",
+        "station_id": "11402",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/jelinstrasse"
+        }
+      },
+      {
+        "lat": 48.7244557,
+        "lon": 9.157168865,
+        "name": "Plieninger Str. (Stadtbahn)",
+        "address": "Gammertinger Str. 70, 70567 Stuttgart",
+        "station_id": "11404",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/plieninger-strasse-stadtbahn"
+        }
+      },
+      {
+        "lat": 48.72669964,
+        "lon": 9.15046368,
+        "name": "Ecke Sigmaringer / Plieninger Str.",
+        "address": "Plieninger Str. 4, 70567 Stuttgart",
+        "station_id": "11405",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ecke-sigmaringer-plieninger-str"
+        }
+      },
+      {
+        "lat": 48.728887,
+        "lon": 9.153258,
+        "name": "Sigmaringer Str. (Stadtbahn)",
+        "address": "Gammertinger Str. 3, 70567 Stuttgart",
+        "station_id": "11406",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sigmaringer-str-stadtbahn"
+        }
+      },
+      {
+        "lat": 48.74592812,
+        "lon": 9.163651764,
+        "name": "Albstra\u00dfe",
+        "address": "Sch\u00f6ttlestr. 14, 70597 Stuttgart",
+        "station_id": "11601",
+        "capacity": 11,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/albstrasse"
+        }
+      },
+      {
+        "lat": 48.74760919,
+        "lon": 9.17230189,
+        "name": "L\u00f6wenstra\u00dfe 54",
+        "address": "L\u00f6wenstr. 54, 70597 Stuttgart",
+        "station_id": "11602",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/loewenstrasse-54"
+        }
+      },
+      {
+        "lat": 48.75423654,
+        "lon": 9.170558453,
+        "name": "Figarostra\u00dfe",
+        "address": "Figarostr., 70597 Stuttgart",
+        "station_id": "11604",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/haigst-figarostrasse"
+        }
+      },
+      {
+        "lat": 48.74240839,
+        "lon": 9.171202183,
+        "name": "Waldenbucher Platz",
+        "address": "Hoffeldstr. 42, 70597 Stuttgart",
+        "station_id": "11605",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/waldenbucher-platz"
+        }
+      },
+      {
+        "lat": 48.44587,
+        "lon": 9.10306,
+        "name": "Felix-Dahn-Str.",
+        "address": "Jahnstr. 30/32, 70597 Stuttgart",
+        "station_id": "11606",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/felix-dahn-str"
+        }
+      },
+      {
+        "lat": 48.71868358,
+        "lon": 9.107413888,
+        "name": "Bahnhof Rohr",
+        "address": "Steigstr. 1, 70565 Stuttgart",
+        "station_id": "11701",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rohr-bahnhof"
+        }
+      },
+      {
+        "lat": 48.780003,
+        "lon": 9.133548,
+        "name": "Mill\u00f6ckerstra\u00dfe",
+        "address": "Mill\u00f6ckerstr. 1, 70195 Stuttgart",
+        "station_id": "11901",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/milloeckerstrasse"
+        }
+      },
+      {
+        "lat": 48.83040892,
+        "lon": 9.16565001,
+        "name": "Bahnhof/P+R",
+        "address": "Am Bahnhof 3, 70435 Stuttgart",
+        "station_id": "12001",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/zuffenhausen-bahnhof-p-r"
+        }
+      },
+      {
+        "lat": 48.83189913,
+        "lon": 9.191393852,
+        "name": "Rot - F\u00fcrfelder Stra\u00dfe",
+        "address": "Haldenrainstr. 126, 70437 Stuttgart",
+        "station_id": "12003",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/rot-fuerfelder-strasse"
+        }
+      },
+      {
+        "lat": 48.83615056,
+        "lon": 9.16961432,
+        "name": "Zaberg\u00e4ustra\u00dfe",
+        "address": "Zaberg\u00e4ustr. 54, 70435 Stuttgart",
+        "station_id": "12004",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/zabergaeustrasse"
+        }
+      },
+      {
+        "lat": 48.82885511,
+        "lon": 9.17610526,
+        "name": "Hohenloher Stra\u00dfe",
+        "address": "Hohenloher Str. 27, 70435 Stuttgart",
+        "station_id": "12005",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hohenloher-strasse"
+        }
+      },
+      {
+        "lat": 48.829409,
+        "lon": 9.168475,
+        "name": "Bahnhof/Burgunderstra\u00dfe",
+        "address": "Burgunderstr. 39, 70435 Stuttgart",
+        "station_id": "12006",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/zuffenhausen-bahnhof-burgunderstrasse"
+        }
+      },
+      {
+        "lat": 48.81049879,
+        "lon": 9.149449468,
+        "name": "F\u00f6hrich",
+        "address": "Stuttgarter Str. 165, 70469 Stuttgart",
+        "station_id": "12102",
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/foehrich"
+        }
+      },
+      {
+        "lat": 48.81135371,
+        "lon": 9.156927466,
+        "name": "Klagenfurterstra\u00dfe",
+        "address": "Klagenfurter Str. 71, 70469 Stuttgart",
+        "station_id": "12103",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/klagenfurter-str"
+        }
+      },
+      {
+        "lat": 48.81141376,
+        "lon": 9.141204357,
+        "name": "Sportpark",
+        "address": "Eifelstra\u00dfe 1, 70469 Stuttgart",
+        "station_id": "12104",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sportpark"
+        }
+      },
+      {
+        "lat": 48.809,
+        "lon": 9.159,
+        "name": "Stuttgarter Str./Untere Querstr.",
+        "address": "Untere Querstra\u00dfe 17, 70469 Stuttgart",
+        "station_id": "12105",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/stuttgarter-struntere-querstr"
+        }
+      },
+      {
+        "lat": 48.71045159,
+        "lon": 9.20251295,
+        "name": "Garbe",
+        "address": "Wollgrasweg 6, 70599 Stuttgart",
+        "station_id": "12201",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/garbe"
+        }
+      },
+      {
+        "lat": 48.779,
+        "lon": 9.252,
+        "name": "Untert\u00fcrkheim Bahnhof - Tiefgarage (AOK)",
+        "address": "Gro\u00dfglocknerstr. 1, 70327 Stuttgart",
+        "station_id": "12301",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/untertuerk-bahnhof"
+        }
+      },
+      {
+        "lat": 48.779678,
+        "lon": 9.251849,
+        "name": "Untert\u00fcrkheim Bahnhof - Post",
+        "address": "Augsburger Str. 380, 70327 Stuttgart",
+        "station_id": "12302",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bahnhof-untertuerkheim-post"
+        }
+      },
+      {
+        "lat": 48.81376294,
+        "lon": 9.119124413,
+        "name": "Wormser Stra\u00dfe",
+        "address": "Wormser Stra\u00dfe 3, 70499 Stuttgart",
+        "station_id": "12402",
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/wormser-strasse"
+        }
+      },
+      {
+        "lat": 48.74183177,
+        "lon": 9.218966961,
+        "name": "Schemppstra\u00dfe",
+        "address": "Kirchheimer Stra\u00dfe 111, 70619 Stuttgart",
+        "station_id": "12501",
+        "capacity": 7,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schemppstrasse"
+        }
+      },
+      {
+        "lat": 48.748266,
+        "lon": 9.209112,
+        "name": "Silberwald",
+        "address": "Trossinger Stra\u00dfe 40, 70619 Stuttgart",
+        "station_id": "12503",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/silberwald"
+        }
+      },
+      {
+        "lat": 48.76254476,
+        "lon": 9.267010689,
+        "name": "Bahnhof",
+        "address": "Hafenbahnstra\u00dfe 22, 70327 Stuttgart",
+        "station_id": "12601",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/obertuerkheim-bahnhof"
+        }
+      },
+      {
+        "lat": 48.763,
+        "lon": 9.268,
+        "name": "G\u00f6ppinger Stra\u00dfe",
+        "address": "G\u00f6ppinger Str. 21, 70329 Stuttgart",
+        "station_id": "12602",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/goeppinger-str"
+        }
+      },
+      {
+        "lat": 48.82364006,
+        "lon": 9.22293663,
+        "name": "Freibergstra\u00dfe",
+        "address": "Neckartalstra\u00dfe 363, 70376 Stuttgart",
+        "station_id": "12701",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/freibergstrasse"
+        }
+      },
+      {
+        "lat": 48.80227035,
+        "lon": 9.087034464,
+        "name": "Schildkr\u00f6tenweg",
+        "address": "Schildkr\u00f6tenweg 4, 70499 Stuttgart",
+        "station_id": "12801",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/schildkroetenweg"
+        }
+      },
+      {
+        "lat": 48.802148,
+        "lon": 9.092338,
+        "name": "Salamanderweg",
+        "address": "Salamanderweg 1, 70499 Stuttgart",
+        "station_id": "12802",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/salamanderweg"
+        }
+      },
+      {
+        "lat": 48.74055115,
+        "lon": 9.22837615,
+        "name": "Bockelstra\u00dfe",
+        "address": "Pfennig\u00e4cker 28, 70619 Stuttgart",
+        "station_id": "12901",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bockelstrasse"
+        }
+      },
+      {
+        "lat": 48.74720861,
+        "lon": 9.2334643,
+        "name": "Heumaden Schule",
+        "address": "Gustav-Barth-Stra\u00dfe 9, 70619 Stuttgart",
+        "station_id": "12902",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/heumaden-schule"
+        }
+      },
+      {
+        "lat": 48.737993,
+        "lon": 9.227423,
+        "name": "Bernsteinstr. 4",
+        "address": "Bernsteinstr. 4, 70619 Stuttgart",
+        "station_id": "12903",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bernsteinstr-4"
+        }
+      },
+      {
+        "lat": 48.8465022,
+        "lon": 9.15772676,
+        "name": "Korntaler Stra\u00dfe",
+        "address": "Korntaler Str. 33, 70439 Stuttgart",
+        "station_id": "13001",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/korntaler-str"
+        }
+      },
+      {
+        "lat": 48.83041599,
+        "lon": 9.230752587,
+        "name": "Einkaufszentrum",
+        "address": "Flamingoweg 30, 70378 Stuttgart",
+        "station_id": "13101",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/einkaufszentrum"
+        }
+      },
+      {
+        "lat": 48.71842168,
+        "lon": 9.112359881,
+        "name": "Osterbronnstra\u00dfe",
+        "address": "Osterbronnstra\u00dfe 50, 70565 Stuttgart",
+        "station_id": "13201",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/osterbronnstrasse"
+        }
+      },
+      {
+        "lat": 48.71729973,
+        "lon": 9.11802471,
+        "name": "Galileistr. (ev. Kirche)",
+        "address": "Galileistra\u00dfe 65, 70565 Stuttgart",
+        "station_id": "13202",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/galileistr-ev-kirche"
+        }
+      },
+      {
+        "lat": 48.71898265,
+        "lon": 9.20829982,
+        "name": "Birkach Friedhof",
+        "address": "Birkenhofstra\u00dfe 4, 70599 Stuttgart",
+        "station_id": "13301",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/friedhof"
+        }
+      },
+      {
+        "lat": 48.77581997,
+        "lon": 9.24246311,
+        "name": "Ebersbacher Stra\u00dfe",
+        "address": "Ebersbacher Str. 23, 70327 Stuttgart",
+        "station_id": "13401",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ebersbacher-strasse"
+        }
+      },
+      {
+        "lat": 48.71133211,
+        "lon": 9.15297121,
+        "name": "Bonhoefferweg",
+        "address": "Bonhoeffer Weg 8, 70565 Stuttgart",
+        "station_id": "13501",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bonhoefferweg"
+        }
+      },
+      {
+        "lat": 48.843038,
+        "lon": 9.210832,
+        "name": "Adalbert-Stifter-Str.",
+        "address": "Adalbert-Stifter-Stra\u00dfe 8, 70437 Stuttgart",
+        "station_id": "13601",
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/adalbert-stifter-strasse"
+        }
+      },
+      {
+        "lat": 48.74141,
+        "lon": 9.153984,
+        "name": "Degerlocher Stra\u00dfe",
+        "address": "Degerlocher Str. 5, 70597 Stuttgart",
+        "station_id": "13701",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/degerlocher-strasse"
+        }
+      },
+      {
+        "lat": 48.759999,
+        "lon": 9.254123,
+        "name": "Hedelfinger Platz",
+        "address": "Hedelfinger Platz 1, 70329 Stuttgart",
+        "station_id": "13801",
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hedelfinger-platz"
+        }
+      },
+      {
+        "lat": 48.895871,
+        "lon": 9.191813,
+        "name": "Rathaus",
+        "address": "Mathildenstr. 25, 71638 Ludwigsburg",
+        "station_id": "20102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.8923633,
+        "lon": 9.18426454,
+        "name": "Bahnhof West (Parkhaus)",
+        "address": "Pflugfelder Stra\u00dfe 17, 71636 Ludwigsburg",
+        "station_id": "20103",
+        "capacity": 4
+      },
+      {
+        "lat": 48.894985,
+        "lon": 9.183715,
+        "name": "Uhlandstra\u00dfe",
+        "address": "Uhlandstra\u00dfe 13, 71638 Ludwigsburg",
+        "station_id": "20104",
+        "capacity": 3
+      },
+      {
+        "lat": 48.895559,
+        "lon": 9.188784,
+        "name": "Arsenalplatz",
+        "address": "Arsenalplatz 2, 71638 Ludwigsburg",
+        "station_id": "20105",
+        "capacity": 6
+      },
+      {
+        "lat": 48.89703632,
+        "lon": 9.174509346,
+        "name": "Osterholzallee",
+        "address": "Osterholzallee 51, 71636 Ludwigsburg",
+        "station_id": "20301",
+        "capacity": 1
+      },
+      {
+        "lat": 48.88639354,
+        "lon": 9.207167923,
+        "name": "Hartwigstra\u00dfe",
+        "address": "Hartwigstra\u00dfe 8, 71638 Ludwigsburg",
+        "station_id": "20401",
+        "capacity": 1
+      },
+      {
+        "lat": 48.89587604,
+        "lon": 9.205727577,
+        "name": "Schorndorfer Stra\u00dfe",
+        "address": "Schorndorfer Str. 78, 71638 Ludwigsburg",
+        "station_id": "20501",
+        "capacity": 2
+      },
+      {
+        "lat": 48.89918224,
+        "lon": 9.205019474,
+        "name": "Klinikum",
+        "address": "Erlachhofstr. 10, 71640 Ludwigsburg",
+        "station_id": "20502",
+        "capacity": 3
+      },
+      {
+        "lat": 48.89465931,
+        "lon": 9.21781898,
+        "name": "Comburgstra\u00dfe",
+        "address": "Comburgstra\u00dfe, 71638 Ludwigsburg",
+        "station_id": "20503",
+        "capacity": 1
+      },
+      {
+        "lat": 48.90788872,
+        "lon": 9.17091519,
+        "name": "Katharinenstra\u00dfe",
+        "address": "Monreposstr. 2, 71634 Ludwigsburg",
+        "station_id": "20701",
+        "capacity": 1
+      },
+      {
+        "lat": 48.6462263,
+        "lon": 9.452582002,
+        "name": "Ro\u00dfmarkt",
+        "address": "Alleenstra\u00dfe 66, 73230 Kirchheim (Teck)",
+        "station_id": "30104",
+        "capacity": 1
+      },
+      {
+        "lat": 48.64483271,
+        "lon": 9.4434873,
+        "name": "Bahnhof",
+        "address": "Sch\u00f6llkopfstra\u00dfe 61, 73230 Kirchheim (Teck)",
+        "station_id": "30106",
+        "capacity": 3
+      },
+      {
+        "lat": 48.704268,
+        "lon": 8.998869,
+        "name": "Bahnhof",
+        "address": "Hanns-Martin-Schleyer-Stra\u00dfe 9, 71063 Sindelfingen",
+        "station_id": "40102",
+        "capacity": 2
+      },
+      {
+        "lat": 48.68675332,
+        "lon": 9.00444657,
+        "name": "Bahnhof (Karlstra\u00dfe)",
+        "address": "Karlstr. 27, 71034 B\u00f6blingen",
+        "station_id": "50102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.68752158,
+        "lon": 9.00251705,
         "name": "Bahnhof (Flugfeld-/Nordseite)",
-        "station_id": "car-sharing-4"
+        "address": "Konrad-Zuse-Stra\u00dfe, 71034 B\u00f6blingen",
+        "station_id": "50103",
+        "capacity": 6
       },
       {
-        "lat": 48.67985,
-        "lon": 8.98144,
-        "name": "Hulb Bahnhof",
-        "station_id": "car-sharing-5"
+        "lat": 48.82647816,
+        "lon": 9.30179016,
+        "name": "Bahnhof (Busbahnhof)",
+        "address": "Bahnhof, 71332 Waiblingen",
+        "station_id": "60101",
+        "capacity": 3
       },
       {
-        "lat": 48.55427,
-        "lon": 8.96614,
-        "name": "teilAuto",
-        "station_id": "car-sharing-6"
+        "lat": 48.8257544,
+        "lon": 9.301318824,
+        "name": "Bahnhof (P+R-Ameisenb\u00fchl)",
+        "address": "Innerer Weidach 11, 71332 Waiblingen",
+        "station_id": "60103",
+        "capacity": 3
       },
       {
-        "lat": 48.52298,
-        "lon": 9.03587,
-        "name": "Car-Sharing",
-        "station_id": "car-sharing-7"
+        "lat": 48.82996549,
+        "lon": 9.31589925,
+        "name": "Alter Postplatz (Tiefgarage)",
+        "address": "Alter Postplatz 13, 71332 Waiblingen",
+        "station_id": "60104",
+        "capacity": 1
       },
       {
-        "lat": 48.64088,
-        "lon": 8.90786,
-        "name": "G\u00e4rtringen",
-        "station_id": "car-sharing-8"
+        "lat": 48.82071975,
+        "lon": 9.270881116,
+        "name": "Bahnhof Nord",
+        "address": "Schaflandstr. 2, 70736 Fellbach",
+        "station_id": "70101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.8094076,
+        "lon": 9.27427401,
+        "name": "Johanneskirche",
+        "address": "Pfarrer-Sturm-Str. 1, 70734 Fellbach",
+        "station_id": "70103",
+        "capacity": 1
+      },
+      {
+        "lat": 48.81333904,
+        "lon": 9.270162284,
+        "name": "Esslinger Stra\u00dfe",
+        "address": "Stuttgarter Str. 53, 70734 Fellbach",
+        "station_id": "70104",
+        "capacity": 1
+      },
+      {
+        "lat": 48.83385275,
+        "lon": 9.264872968,
+        "name": "Rathaus",
+        "address": "Brunnenstr. 6, 70736 Fellbach",
+        "station_id": "70105",
+        "capacity": 1
+      },
+      {
+        "lat": 48.805436,
+        "lon": 9.279676,
+        "name": "Vordere Stra\u00dfe",
+        "address": "Vordere Stra\u00dfe 26, 70734 Fellbach",
+        "station_id": "70106",
+        "capacity": 1
+      },
+      {
+        "lat": 48.81757085,
+        "lon": 9.27312881,
+        "name": "Maicklerstra\u00dfe",
+        "address": "Bahnhofstr. 134, 70736 Fellbach",
+        "station_id": "70107",
+        "capacity": 1
+      },
+      {
+        "lat": 48.81983304,
+        "lon": 9.27032791,
+        "name": "Bahnhof S\u00fcd",
+        "address": "Eisenbahnstr. 14, 70736 Fellbach",
+        "station_id": "70108",
+        "capacity": 1
+      },
+      {
+        "lat": 48.59338317,
+        "lon": 8.86229217,
+        "name": "Bahnhof P+R-Anlage S\u00fcd",
+        "address": "Bahnhofstr. 41, 71083 Herrenberg",
+        "station_id": "80103",
+        "capacity": 4
+      },
+      {
+        "lat": 48.59450726,
+        "lon": 8.87147538,
+        "name": "Hasenplatz",
+        "address": "Hindenburgstra\u00dfe 36, 71083 Herrenberg",
+        "station_id": "80104",
+        "capacity": 1
+      },
+      {
+        "lat": 48.948083,
+        "lon": 9.135669,
+        "name": "Bahnhof (Parkhaus West)",
+        "address": "Borsigstra\u00dfe, 74321 Bietigheim-Bissingen",
+        "station_id": "90101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.9603999,
+        "lon": 9.13213849,
+        "name": "Kronenzentrum",
+        "address": "M\u00fchlwiesenstr. 10, 74321 Bietigheim-Bissingen",
+        "station_id": "90102",
+        "capacity": 2
+      },
+      {
+        "lat": 48.81268551,
+        "lon": 9.371126,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 26, 71384 Weinstadt",
+        "station_id": "130101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.81011916,
+        "lon": 9.38772552,
+        "name": "Bahnhof",
+        "address": "Cannonstra\u00dfe, 71384 Weinstadt",
+        "station_id": "130201",
+        "capacity": 2
+      },
+      {
+        "lat": 48.69673746,
+        "lon": 9.142473042,
+        "name": "Bahnhof",
+        "address": "Bahnhofstra\u00dfe 32, 70771 Leinfelden-Echterdingen",
+        "station_id": "140101",
+        "capacity": 4
+      },
+      {
+        "lat": 48.69252202,
+        "lon": 9.13912296,
+        "name": "Kirchstra\u00dfe",
+        "address": "Kirchstra\u00dfe 41, 70771 Leinfelden-Echterdingen",
+        "station_id": "140102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.68971821,
+        "lon": 9.16771196,
+        "name": "Maiergasse",
+        "address": "Maiergasse 8, 70771 Leinfelden-Echterdingen",
+        "station_id": "140203",
+        "capacity": 1
+      },
+      {
+        "lat": 48.691833,
+        "lon": 9.169456,
+        "name": "Bahnhof - Filderbahnstr.",
+        "address": "Filderbahnstr. 10, 70771 Leinfelden Echterdingen",
+        "station_id": "140205",
+        "capacity": 2
+      },
+      {
+        "lat": 48.627654,
+        "lon": 9.343736,
+        "name": "Seegrasspinnerei",
+        "address": "Plochinger Str. 14, 72622 N\u00fcrtingen",
+        "station_id": "150104",
+        "capacity": 4
+      },
+      {
+        "lat": 48.94313416,
+        "lon": 9.427009821,
+        "name": "Bahnhof",
+        "address": "Obere Bahnhofstr. 1, 71522 Backnang",
+        "station_id": "160101",
+        "capacity": 3
+      },
+      {
+        "lat": 48.862651,
+        "lon": 9.180816,
+        "name": "Bahnhof",
+        "address": "Eastleighstra\u00dfe 55, 70806 Kornwestheim",
+        "station_id": "170101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.64095737,
+        "lon": 8.9085671,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 24, 71116 G\u00e4rtringen",
+        "station_id": "180102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.9435417,
+        "lon": 9.266388416,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 10, 71672 Marbach am Neckar",
+        "station_id": "190101",
+        "capacity": 4
+      },
+      {
+        "lat": 48.806454,
+        "lon": 9.525241,
+        "name": "Schorndorf Bahnhof (Rosenstra\u00dfe)",
+        "address": "Rosenstra\u00dfe 11, 73614 Schorndorf",
+        "station_id": "200102",
+        "capacity": 2
+      },
+      {
+        "lat": 48.80727589,
+        "lon": 9.52533223,
+        "name": "Schorndorf Bahnhof (Grabenstra\u00dfe)",
+        "address": "Grabenstra\u00dfe 16, 73614 Schorndorf",
+        "station_id": "200103",
+        "capacity": 1
+      },
+      {
+        "lat": 48.81524432,
+        "lon": 9.31916557,
+        "name": "Bahnhof",
+        "address": "Max-Eyth-Str. 7, 71394 Kernen im Remstal",
+        "station_id": "220102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.798854,
+        "lon": 9.00282,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 82, 71229 Leonberg",
+        "station_id": "230102",
+        "capacity": 4
+      },
+      {
+        "lat": 48.74326801,
+        "lon": 9.3063882,
+        "name": "Kleiner Markt",
+        "address": "Marktplatz 4, 73728 Esslingen",
+        "station_id": "240102",
+        "capacity": 3
+      },
+      {
+        "lat": 48.73761037,
+        "lon": 9.3068026,
+        "name": "Vogelsang (Pliensauturm)",
+        "address": "Vogelsangstr. 8, 73728 Esslingen",
+        "station_id": "240103",
+        "capacity": 7
+      },
+      {
+        "lat": 48.73435454,
+        "lon": 9.32030886,
+        "name": "Heilbronner Stra\u00dfe",
+        "address": "Heilbronner Str. 52,  73728 Esslingen",
+        "station_id": "240104",
+        "capacity": 1
+      },
+      {
+        "lat": 48.74195382,
+        "lon": 9.31628019,
+        "name": "Katharinenstaffel",
+        "address": "Landenbergerstr. 5, 73728 Esslingen",
+        "station_id": "240105",
+        "capacity": 3
+      },
+      {
+        "lat": 48.736741,
+        "lon": 9.316718,
+        "name": "Charlottenplatz",
+        "address": "Plochinger Str. 5, 73730 Esslingen",
+        "station_id": "240106",
+        "capacity": 3
+      },
+      {
+        "lat": 48.740214,
+        "lon": 9.308763979,
+        "name": "Ottilienplatz",
+        "address": "Ottilienplatz 10, 73728 Esslingen",
+        "station_id": "240107",
+        "capacity": 2
+      },
+      {
+        "lat": 48.739426,
+        "lon": 9.299227,
+        "name": "Bahnhof (Eugenie-von-Soden-Stra\u00dfe)",
+        "address": "Eugenie-von-Soden-Stra\u00dfe, 73728 Esslingen",
+        "station_id": "240108",
+        "capacity": 3
+      },
+      {
+        "lat": 48.741374,
+        "lon": 9.303469,
+        "name": "Schelztorstra\u00dfe",
+        "address": "Schelztorstra\u00dfe 1, 73728 Esslingen",
+        "station_id": "240109",
+        "capacity": 1
+      },
+      {
+        "lat": 48.739975,
+        "lon": 9.318122,
+        "name": "Urbanstra\u00dfe",
+        "address": "Urbanstra\u00dfe 46, 73728 Esslingen",
+        "station_id": "240110",
+        "capacity": 1
+      },
+      {
+        "lat": 48.73317279,
+        "lon": 9.3332532,
+        "name": "Diakonissenweg",
+        "address": "Diakonissenweg 2, 73730 Esslingen",
+        "station_id": "240201",
+        "capacity": 1
+      },
+      {
+        "lat": 48.73017299,
+        "lon": 9.32755686,
+        "name": "Bahnhof",
+        "address": "Ulmer Str. 76, 73730 Esslingen",
+        "station_id": "240203",
+        "capacity": 3
+      },
+      {
+        "lat": 48.75012045,
+        "lon": 9.31240708,
+        "name": "Palmscher Park",
+        "address": "W\u00e4ldenbronner Str. 2, 73732 Esslingen am Neckar",
+        "station_id": "240301",
+        "capacity": 2
+      },
+      {
+        "lat": 48.735595,
+        "lon": 9.29263,
+        "name": "Weilstra\u00dfe",
+        "address": "Weilstra\u00dfe 52, 73732 Esslingen",
+        "station_id": "240501",
+        "capacity": 1
+      },
+      {
+        "lat": 48.73622,
+        "lon": 9.298838,
+        "name": "Uhlandstra\u00dfe",
+        "address": "Uhlandstr. 5, 73734 Esslingen",
+        "station_id": "240502",
+        "capacity": 1
+      },
+      {
+        "lat": 48.71555961,
+        "lon": 9.29510079,
+        "name": "Stadtbahn",
+        "address": "Ludwig-Jahn-Str. 77, 73760 Ostfildern",
+        "station_id": "250102",
+        "capacity": 1
+      },
+      {
+        "lat": 48.72037353,
+        "lon": 9.26937908,
+        "name": "Edith-Stein-Sta\u00dfe",
+        "address": "Edith-Stein-Stra\u00dfe 19, 73760 Ostfildern",
+        "station_id": "250201",
+        "capacity": 3
+      },
+      {
+        "lat": 48.723797,
+        "lon": 9.272754,
+        "name": "Gerhard-Koch-Stra\u00dfe",
+        "address": "Gerhard-Koch-Stra\u00dfe,  73760 Ostfildern",
+        "station_id": "250202",
+        "capacity": 1
+      },
+      {
+        "lat": 48.71975,
+        "lon": 9.271916,
+        "name": "Niem\u00f6llerstr. ",
+        "address": "Niem\u00f6llerstra\u00dfe 12, 73760 Ostfildern",
+        "station_id": "250203",
+        "capacity": 1
+      },
+      {
+        "lat": 48.72987001,
+        "lon": 9.25612206,
+        "name": "Stadtbahn / Im Flieder",
+        "address": "Im Flieder 2, 73760 Ostfildern",
+        "station_id": "250301",
+        "capacity": 1
+      },
+      {
+        "lat": 48.73138101,
+        "lon": 9.2536924,
+        "name": "Graben\u00e4ckerstra\u00dfe",
+        "address": "Graben\u00e4ckerstra\u00dfe 7, 73760 Ostfildern",
+        "station_id": "250302",
+        "capacity": 1
+      },
+      {
+        "lat": 48.71229667,
+        "lon": 9.44808662,
+        "name": "Siegenbergplatz",
+        "address": "Siegenbergplatz 5, 73262 Reichenbach an der Fils",
+        "station_id": "260201",
+        "capacity": 1
+      },
+      {
+        "lat": 48.823448,
+        "lon": 9.067369,
+        "name": "Bahnhof",
+        "address": "Siemensstr. 30, 71254 Ditzingen",
+        "station_id": "270101",
+        "capacity": 5
+      },
+      {
+        "lat": 48.81041224,
+        "lon": 9.42086756,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 76, 73630 Remshalden",
+        "station_id": "280101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.63827934,
+        "lon": 9.1240409,
+        "name": "Ritter Sport (Verwaltung)",
+        "address": "Alfred-Ritter-Stra\u00dfe 25, 71111 Waldenbuch",
+        "station_id": "290101",
+        "capacity": 3
+      },
+      {
+        "lat": 48.82672913,
+        "lon": 9.12099391,
+        "name": "Bahnhof Korntal",
+        "address": "Bahnhofplatz, 70825 Korntal-M\u00fcnchingen",
+        "station_id": "300101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.9071268,
+        "lon": 9.14733052,
+        "name": "Bahnhof",
+        "address": "Bahnhof 1, 71679 Asperg",
+        "station_id": "310101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.87871646,
+        "lon": 9.39209349,
+        "name": "Bahnhof",
+        "address": "Karl-Kr\u00e4mer-Stra\u00dfe 23, 71364 Winnenden",
+        "station_id": "320101",
+        "capacity": 3
+      },
+      {
+        "lat": 48.67661,
+        "lon": 9.219134,
+        "name": "Bahnhof",
+        "address": "Filderbahnstr. 15, 70794 Filderstadt",
+        "station_id": "330101",
+        "capacity": 4
+      },
+      {
+        "lat": 48.80064141,
+        "lon": 9.06395003,
+        "name": "Schillerstra\u00dfe",
+        "address": "Schillerstra\u00dfe 14, 70839 Gerlingen",
+        "station_id": "360101",
+        "capacity": 2
+      },
+      {
+        "lat": 48.712795,
+        "lon": 9.412919,
+        "name": "Bahnhof",
+        "address": "Bahnhofstr. 11, 73207 Plochingen",
+        "station_id": "390101",
+        "capacity": 1
+      },
+      {
+        "lat": 48.808915,
+        "lon": 9.577874,
+        "name": "Rathaus",
+        "address": "Schie\u00dfgasse 8, 73660 Urbach",
+        "station_id": "400101",
+        "capacity": 1
       }
     ]
   },
-  "last_updated": 1593510646,
-  "ttl": 60000
+  "last_updated": 1621184439,
+  "ttl": 86400
 }

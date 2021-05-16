@@ -1,6 +1,6 @@
 {
-  "last_updated": 1617262048,
-  "ttl":0,
+  "last_updated": 1621184439,
+  "ttl": 60,
   "version":"3.0",
   "data":{
     "bikes":[]
