@@ -7,7 +7,7 @@
     	{
 	    	"name": "Lastenrad",
 	    	"vehicle_type_id": "cargobike1",
-	    	"form_factor": "cargobike",
+	    	"form_factor": "cargo",
 	    	"max_range_meter": 30000,
 	    	"propulsion_type": "electric_assist"
 	    }
