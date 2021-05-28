@@ -7,27 +7,27 @@
       "feeds": [
         {
           "name": "system_information",
-          "url": "system_information.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/system_information.json"
         },
         {
           "name": "station_information",
-          "url": "station_information.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/station_information.json"
         },
         {
           "name": "station_status",
-          "url": "station_status.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/station_status.json"
         },
         {
           "name": "system_alerts",
-          "url": "system_alerts.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/system_alerts.json"
         },
         {
           "name": "system_hours",
-          "url": "system_hours.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/system_hours.json"
         },
         {
           "name": "vehicle_types",
-          "url": "vehicle_types.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/gueltstein-mobil/vehicle_types.json"
         }
       ]
     }
