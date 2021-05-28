@@ -1758,7 +1758,10 @@
         "name": "Bahnhof P+R-Anlage S\u00fcd",
         "address": "Bahnhofstr. 41, 71083 Herrenberg",
         "station_id": "80103",
-        "capacity": 4
+        "capacity": 4,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/herrenberg-bahnhof-p-r-anlage-sued/"
+        }
       },
       {
         "lat": 48.59450726,
@@ -1766,7 +1769,10 @@
         "name": "Hasenplatz",
         "address": "Hindenburgstra\u00dfe 36, 71083 Herrenberg",
         "station_id": "80104",
-        "capacity": 1
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hasenplatz/"
+        }
       },
       {
         "lat": 48.948083,
