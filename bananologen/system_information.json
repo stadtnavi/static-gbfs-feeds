@@ -1,0 +1,15 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "language": "DE",
+    "name": "E-Lastenrad FaRe",
+    "operator": "Bananologen",
+    "system_id": "de.stadtnavi.gbfs.bananologen",
+    "timezone": "Europe/Berlin",
+    "url": "https://www.herrenberg.de/fairtrade",
+    "feed_contact_mail": "support@herrenberg.stadtnavi.de",
+    "mail": "bananologen@gmx.de"
+  },
+}
