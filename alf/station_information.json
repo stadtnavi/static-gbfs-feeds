@@ -1,0 +1,24 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "lat": 48.60719,
+        "lon": 8.85903,
+        "name": "Lastenrad Alf",
+        "station_id": "alf",
+        "address": "Kaffeeberg 2",
+        "post_code": "70183",
+        "is_virtual_station": true,
+        "vehicle_type_capacity": {
+          "cargobike1": 1
+        },
+        "rental_uris": {
+          "web": "https://www.adfc-bw.de/boeblingen/startseite/news-einzeldarstellung/alf-eine-erfolgsgeschichte-aus-affstaett/"
+        }
+      }
+    ]
+  }
+}

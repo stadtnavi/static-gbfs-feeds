@@ -1,0 +1,24 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "lat": 48.5961618,
+        "lon": 8.8701961,
+        "name": "E-Lastenrad FaRe",
+        "station_id": "fare",
+        "address": "Markthalle Herrenberg, Marktplatz 8",
+        "post_code": "70183",
+        "is_virtual_station": true,
+        "vehicle_type_capacity": {
+          "cargobike1": 1
+        },
+        "rental_uris": {
+          "web": "https://www.herrenberg.de/fairtrade"
+        }
+      }
+    ]
+  }
+}

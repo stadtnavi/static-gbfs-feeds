@@ -1,0 +1,35 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "de": {
+      "feeds": [
+        {
+          "name": "system_information",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/system_information.json"
+        },
+        {
+          "name": "station_information",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/station_information.json"
+        },
+        {
+          "name": "station_status",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/station_status.json"
+        },
+        {
+          "name": "system_alerts",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/system_alerts.json"
+        },
+        {
+          "name": "system_hours",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/system_hours.json"
+        },
+        {
+          "name": "vehicle_types",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/alf/vehicle_types.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 60,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "num_bikes_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "station_id": "alf",
+        "vehicle_types_available": [{
+          "vehicle_type_id": "cargobike1",
+          "count": 1
+        }]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "language": "DE",
+    "name": "ALF Lastenrad Affstätt",
+    "operator": "adfc Böblingen/Affstätter Bürgerschaft",
+    "system_id": "de.stadtnavi.gbfs.alf",
+    "timezone": "Europe/Berlin",
+    "url": "https://www.adfc-bw.de/boeblingen/",
+    "feed_contact_mail": "support@herrenberg.stadtnavi.de",
+    "mail": "alf-ausleihen@web.de"
+  },
+}
