@@ -1,0 +1,13 @@
+{
+  "data": {
+    "language": "DE",
+    "name": "teilAuto Neckar-Alb eG",
+    "operator": "teilauto-neckar-alb",
+    "system_id": "de.stadtnavi.teilauto.neckar_alb",
+    "timezone": "Europe/Berlin",
+    "url": "https://www.teilauto-neckar-alb.de/",
+    "feed_contact_mail": "info@mitfahrdezentrale.de",
+  },
+  "last_updated": 1621184439,
+  "ttl": 86400
+}

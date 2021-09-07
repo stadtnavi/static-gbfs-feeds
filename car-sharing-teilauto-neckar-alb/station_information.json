@@ -1,0 +1,869 @@
+{
+  "data": {
+    "stations": [
+      {
+        "lat": 48.542119,
+        "lon": 9.058715,
+        "name": "Fichtenweg 2, Parkhaus",
+        "address": "Fichtenweg 2, 72076 T\u00fcbingen",
+        "station_id": "5"
+      },
+      {
+        "lat": 48.540561,
+        "lon": 9.04686,
+        "name": "Albrecht-D\u00fcrer-Str. 3, Wanne",
+        "address": "Albrecht-D\u00fcrer-Stra\u00dfe 3, 72076 T\u00fcbingen",
+        "station_id": "6"
+      },
+      {
+        "lat": 48.536055,
+        "lon": 9.062209,
+        "name": "Niethammerstra\u00dfe 3, Sch\u00f6nblick",
+        "address": "V\u00f6chtingstra\u00dfe 37, 72076 T\u00fcbingen",
+        "station_id": "7"
+      },
+      {
+        "lat": 48.531098,
+        "lon": 9.081099,
+        "name": "Dorfackerstra\u00dfe 18-20",
+        "address": "Dorfackerstra\u00dfe 16, 72074 T\u00fcbingen",
+        "station_id": "8"
+      },
+      {
+        "lat": 48.52805,
+        "lon": 9.061629,
+        "name": "Melanchthonstra\u00dfe 21-25",
+        "address": "Melanchthonstra\u00dfe 18, 72074 T\u00fcbingen",
+        "station_id": "9"
+      },
+      {
+        "lat": 48.52392,
+        "lon": 9.04093,
+        "name": "Herrenberger Stra\u00dfe 83",
+        "address": "Herrenberger Stra\u00dfe 83-85, 72070 T\u00fcbingen",
+        "station_id": "12"
+      },
+      {
+        "lat": 48.519782,
+        "lon": 9.047242,
+        "name": "Schw\u00e4rzlocher Stra\u00dfe 10",
+        "address": "Schw\u00e4rzlocher Stra\u00dfe 10, 72070 T\u00fcbingen",
+        "station_id": "14"
+      },
+      {
+        "lat": 48.518335,
+        "lon": 9.068481,
+        "name": "Hermann-Kurz-Stra\u00dfe 39, Stauwehr",
+        "address": "Hermann-Kurz-Stra\u00dfe 39, 72074 T\u00fcbingen",
+        "station_id": "17"
+      },
+      {
+        "lat": 48.515691,
+        "lon": 9.061168,
+        "name": "Reutlinger Str.7, PH Metropol Ebene 01",
+        "address": "Reutlinger Stra\u00dfe 7, 72072 T\u00fcbingen",
+        "station_id": "18"
+      },
+      {
+        "lat": 48.514537,
+        "lon": 9.058788,
+        "name": "F\u00fcrststra\u00dfe 13",
+        "address": "F\u00fcrststra\u00dfe 9, 72072 T\u00fcbingen",
+        "station_id": "19"
+      },
+      {
+        "lat": 48.510572,
+        "lon": 9.063873,
+        "name": "Lilli-Zapf-Str. 20, Loretto 1",
+        "address": "Lilli-Zapf-Stra\u00dfe 9-19, 72072 T\u00fcbingen",
+        "station_id": "20"
+      },
+      {
+        "lat": 48.510483,
+        "lon": 9.076126,
+        "name": "Wennfelder Garten 4, Projekt 14",
+        "address": "Wennfelder Garten 4, 72072 T\u00fcbingen",
+        "station_id": "21"
+      },
+      {
+        "lat": 48.518703,
+        "lon": 9.063264,
+        "name": "Gartenstra\u00dfe 30",
+        "address": "Hermann-Kurz-Stra\u00dfe 4, 72074 T\u00fcbingen",
+        "station_id": "29"
+      },
+      {
+        "lat": 48.53112,
+        "lon": 9.071362,
+        "name": "Linsenbergstra\u00dfe 40",
+        "address": "Linsenbergstra\u00dfe 40, 72074 T\u00fcbingen",
+        "station_id": "31"
+      },
+      {
+        "lat": 48.515441,
+        "lon": 9.042283,
+        "name": "Hirschauer Stra\u00dfe 15",
+        "address": "Hirschauer Stra\u00dfe 15, 72070 T\u00fcbingen",
+        "station_id": "39"
+      },
+      {
+        "lat": 48.510549,
+        "lon": 9.079336,
+        "name": "Mirabeauweg 4",
+        "address": "Mirabeauweg 4, 72072 T\u00fcbingen",
+        "station_id": "40"
+      },
+      {
+        "lat": 48.518113,
+        "lon": 9.048849,
+        "name": "Neckarhalde 38",
+        "address": "Neckarhalde 52-55, 72070 T\u00fcbingen",
+        "station_id": "42"
+      },
+      {
+        "lat": 48.536088,
+        "lon": 9.092377,
+        "name": "St\u00e4udach 17, Herrlesberg",
+        "address": "St\u00e4udach 22, 72074 T\u00fcbingen",
+        "station_id": "43"
+      },
+      {
+        "lat": 48.523197,
+        "lon": 9.060687,
+        "name": "Brunnenstra\u00dfe 3, Tech. Rathaus",
+        "address": "Brunnenstra\u00dfe 3, 72074 T\u00fcbingen",
+        "station_id": "48"
+      },
+      {
+        "lat": 48.509904,
+        "lon": 9.079139,
+        "name": "Henriettenweg 6",
+        "address": "Henriettenweg 6, 72072 T\u00fcbingen",
+        "station_id": "50"
+      },
+      {
+        "lat": 48.509854,
+        "lon": 9.061004,
+        "name": "Ruth-Marx-Str. 10, Loretto 2",
+        "address": "Ruth-Marx-Stra\u00dfe 12, 72072 T\u00fcbingen",
+        "station_id": "52"
+      },
+      {
+        "lat": 48.513646,
+        "lon": 9.061723,
+        "name": "Eugensta\u00dfe 20",
+        "address": "Eugenstra\u00dfe 23, 72072 T\u00fcbingen",
+        "station_id": "53"
+      },
+      {
+        "lat": 48.50332,
+        "lon": 9.049648,
+        "name": "Sieben-H\u00f6fe-Str. 11, Rathaus",
+        "address": "Sieben-H\u00f6fe-Str. 11, 72072 T\u00fcbingen",
+        "station_id": "54"
+      },
+      {
+        "lat": 48.51058,
+        "lon": 9.077566,
+        "name": "Aixer Str. 58, Ballspielhalle",
+        "address": "Aixer Stra\u00dfe 58, 72072 T\u00fcbingen",
+        "station_id": "55"
+      },
+      {
+        "lat": 48.527691,
+        "lon": 9.051559,
+        "name": "K\u00e4senbachstra\u00dfe 8/1",
+        "address": "K\u00e4senbachstra\u00dfe 8/1, 72076 T\u00fcbingen",
+        "station_id": "56"
+      },
+      {
+        "lat": 48.521531,
+        "lon": 9.044549,
+        "name": "Schleifm\u00fchleweg 36, Saturn",
+        "address": "Westbahnhofstra\u00dfe 29, 72070 T\u00fcbingen",
+        "station_id": "58"
+      },
+      {
+        "lat": 48.512145,
+        "lon": 9.050751,
+        "name": "Konrad-Adenauer-Stra\u00dfe 5",
+        "address": "Konrad-Adenauer-Stra\u00dfe 5, 72072 T\u00fcbingen",
+        "station_id": "60"
+      },
+      {
+        "lat": 48.4757,
+        "lon": 8.937726,
+        "name": "Schuhstra\u00dfe 4",
+        "address": "Schuhstra\u00dfe 4, 72108 Rottenburg am Neckar",
+        "station_id": "65"
+      },
+      {
+        "lat": 48.478618,
+        "lon": 8.939115,
+        "name": "Sofienstra\u00dfe 16",
+        "address": "Sofienstra\u00dfe 16, 72108 Rottenburg am Neckar",
+        "station_id": "67"
+      },
+      {
+        "lat": 48.512237,
+        "lon": 9.075232,
+        "name": "Bei den Pferdest\u00e4llen 11, Parkhaus",
+        "address": "Bei den Pferdest\u00e4llen 11, 72072 T\u00fcbingen",
+        "station_id": "69"
+      },
+      {
+        "lat": 48.487533,
+        "lon": 9.016166,
+        "name": "Im Kleinen Feldle 2",
+        "address": "Im Kleinen Feldle 2, 72072 T\u00fcbingen",
+        "station_id": "71"
+      },
+      {
+        "lat": 48.505473,
+        "lon": 9.055701,
+        "name": "Primus-Truber-Str. 33, Walter-Erbe-Schule",
+        "address": "Primus-Truber-Stra\u00dfe 33, 72072 T\u00fcbingen",
+        "station_id": "73"
+      },
+      {
+        "lat": 48.511102,
+        "lon": 9.069765,
+        "name": "Janusz-Korczak-Weg 3",
+        "address": "Janusz-Korczak-Weg 3, 72072 T\u00fcbingen",
+        "station_id": "74"
+      },
+      {
+        "lat": 48.501291,
+        "lon": 9.054483,
+        "name": "\u00d6lm\u00fchlenweg 1, M\u00fchlenviertel",
+        "address": "\u00d6lm\u00fchlenweg 1, 72072 T\u00fcbingen",
+        "station_id": "75"
+      },
+      {
+        "lat": 48.521323,
+        "lon": 9.052911,
+        "name": "Bei der Fruchtschranne 1",
+        "address": "Bei der Fruchtschranne 1, 72070 T\u00fcbingen",
+        "station_id": "77"
+      },
+      {
+        "lat": 48.502034,
+        "lon": 9.056022,
+        "name": "Primus-Truber-Str. 47, Sporthalle Feuerh\u00e4gle",
+        "address": "Primus-Truber-Stra\u00dfe 47, 72072 T\u00fcbingen",
+        "station_id": "78"
+      },
+      {
+        "lat": 48.483928,
+        "lon": 8.93877,
+        "name": "Jahnstr. 31, Volksbank-Arena",
+        "address": "Jahnstra\u00dfe 31, 72108 Rottenburg am Neckar",
+        "station_id": "79"
+      },
+      {
+        "lat": 48.515889,
+        "lon": 9.05354,
+        "name": "Hauptbahnhof, P3",
+        "address": "Europaplatz 25 11, 72072 T\u00fcbingen",
+        "station_id": "81"
+      },
+      {
+        "lat": 48.548873,
+        "lon": 9.110555,
+        "name": "Baumwiesenweg 1",
+        "address": "Baumwiesenweg 1, 72074 T\u00fcbingen",
+        "station_id": "82"
+      },
+      {
+        "lat": 48.52868,
+        "lon": 9.057898,
+        "name": "M\u00f6rikestra\u00dfe 4",
+        "address": "M\u00f6rikestra\u00dfe 4, 72076 T\u00fcbingen",
+        "station_id": "84"
+      },
+      {
+        "lat": 48.511275,
+        "lon": 9.081318,
+        "name": "Allee des Chasseurs, Parkplatz hinten",
+        "address": "Allee des Chasseurs , 72072 T\u00fcbingen",
+        "station_id": "85"
+      },
+      {
+        "lat": 48.501462,
+        "lon": 8.998735,
+        "name": "Kingersheimer Stra\u00dfe 29",
+        "address": "Kingersheimer Stra\u00dfe 29, 72070 T\u00fcbingen",
+        "station_id": "88"
+      },
+      {
+        "lat": 48.523538,
+        "lon": 9.061005,
+        "name": "Brunnenstra\u00dfe 9",
+        "address": "Brunnenstra\u00dfe 9, 72074 T\u00fcbingen",
+        "station_id": "90"
+      },
+      {
+        "lat": 48.511739,
+        "lon": 9.064081,
+        "name": "Katharinenstr. 30, Loretto 3",
+        "address": "Katharinenstra\u00dfe 30, 72072 T\u00fcbingen",
+        "station_id": "89"
+      },
+      {
+        "lat": 48.520634,
+        "lon": 9.048595,
+        "name": "Schleifm\u00fchleweg 4, Haagtor",
+        "address": "Schleifm\u00fchleweg 4, 72070 T\u00fcbingen",
+        "station_id": "91"
+      },
+      {
+        "lat": 48.52895,
+        "lon": 9.064309,
+        "name": "Wilhelmstra\u00dfe 60",
+        "address": "Wilhelmstra\u00dfe 60, 72074 T\u00fcbingen",
+        "station_id": "93"
+      },
+      {
+        "lat": 48.48492,
+        "lon": 9.187863,
+        "name": "Pestalozzistra\u00dfe 50",
+        "address": "Pestalozzistra\u00dfe 50, 72762 Reutlingen",
+        "station_id": "108"
+      },
+      {
+        "lat": 48.488592,
+        "lon": 9.211969,
+        "name": "Lederstr.96, Parkhaus-Ebene J",
+        "address": "Lederstra\u00dfe 96, 72764 Reutlingen",
+        "station_id": "95"
+      },
+      {
+        "lat": 48.486518,
+        "lon": 9.258104,
+        "name": "Rathausplatz 1",
+        "address": "Rathausplatz 1, 72800 Eningen unter Achalm",
+        "station_id": "104"
+      },
+      {
+        "lat": 48.496478,
+        "lon": 9.196843,
+        "name": "Bantlinstra\u00dfe, Parkhaus",
+        "address": "Lohm\u00fchlestra\u00dfe 40, 72762 Reutlingen",
+        "station_id": "100"
+      },
+      {
+        "lat": 48.49898,
+        "lon": 9.174675,
+        "name": "Im Dorf 22",
+        "address": "Im Dorf 22, 72770 Reutlingen",
+        "station_id": "106"
+      },
+      {
+        "lat": 48.470275,
+        "lon": 9.226895,
+        "name": "Marktstra\u00dfe 30",
+        "address": "Marktstra\u00dfe 30, 72793 Pfullingen",
+        "station_id": "105"
+      },
+      {
+        "lat": 48.477758,
+        "lon": 9.202414,
+        "name": "Hans-Reyhing-Stra\u00dfe 23",
+        "address": "Hans-Reyhing-Stra\u00dfe 23, 72762 Reutlingen",
+        "station_id": "102"
+      },
+      {
+        "lat": 48.545817,
+        "lon": 9.059522,
+        "name": "Ulmenweg, Wendeplatte",
+        "address": "Ulmenweg 8, 72076 T\u00fcbingen",
+        "station_id": "110"
+      },
+      {
+        "lat": 48.52376,
+        "lon": 9.119969,
+        "name": "Hindenburgstr.",
+        "address": "Hindenburgstra\u00dfe 39, 72127 Kusterdingen",
+        "station_id": "111"
+      },
+      {
+        "lat": 48.521433,
+        "lon": 9.058498,
+        "name": "Doblerstr. 4 - 6, KSK Innenhof",
+        "address": "Doblerstra\u00dfe 4, 72074 T\u00fcbingen",
+        "station_id": "114"
+      },
+      {
+        "lat": 48.521968,
+        "lon": 9.066407,
+        "name": "Stauffenbergstra\u00dfe 26",
+        "address": "Stauffenbergstra\u00dfe 27, 72074 T\u00fcbingen",
+        "station_id": "115"
+      },
+      {
+        "lat": 48.490985,
+        "lon": 9.033755,
+        "name": "Wilonstr. 11",
+        "address": "Wilonstra\u00dfe 11, 72072 T\u00fcbingen",
+        "station_id": "116"
+      },
+      {
+        "lat": 48.510656,
+        "lon": 9.046501,
+        "name": "Wilhelm-Keil-Str. 50, Landratsamt",
+        "address": "Wilhelm-Keil-Stra\u00dfe 50, 72072 T\u00fcbingen",
+        "station_id": "117"
+      },
+      {
+        "lat": 48.477141,
+        "lon": 8.933043,
+        "name": "Burgsteige 2, Rathaus",
+        "address": "Burgsteige  2, 72108 Rottenburg am Neckar",
+        "station_id": "118"
+      },
+      {
+        "lat": 48.478091,
+        "lon": 9.205696,
+        "name": "Unterm Georgenberg 29-31",
+        "address": "Unterm Georgenberg 29, 72764 Reutlingen",
+        "station_id": "120"
+      },
+      {
+        "lat": 48.528787,
+        "lon": 9.079662,
+        "name": "Kreuzstra\u00dfe 12-14",
+        "address": "Kreuzstra\u00dfe 10, 72074 T\u00fcbingen",
+        "station_id": "121"
+      },
+      {
+        "lat": 48.49876,
+        "lon": 9.057313,
+        "name": "Waldh\u00f6rnlestr. 18",
+        "address": "Waldh\u00f6rnlestra\u00dfe 18, 72072 T\u00fcbingen",
+        "station_id": "122"
+      },
+      {
+        "lat": 48.522868,
+        "lon": 9.060122,
+        "name": "Doblerstr. 15, Im Knick",
+        "address": "Doblerstra\u00dfe 15, 72074 T\u00fcbingen",
+        "station_id": "128"
+      },
+      {
+        "lat": 48.540215,
+        "lon": 9.283644,
+        "name": "Beim Rathaus 14",
+        "address": "Beim Rathaus 14, 72555 Metzingen",
+        "station_id": "124"
+      },
+      {
+        "lat": 48.491076,
+        "lon": 9.397563,
+        "name": "Beim Tiergarten 18",
+        "address": "Beim Tiergarten 18, 72574 Bad Urach",
+        "station_id": "126"
+      },
+      {
+        "lat": 48.554272,
+        "lon": 8.966075,
+        "name": "Kirchstr. 6, Rathaus",
+        "address": "Kirchstra\u00dfe 6, 72119 Ammerbuch",
+        "station_id": "129"
+      },
+      {
+        "lat": 48.540409,
+        "lon": 9.289377,
+        "name": "Eisenbahnstr. 26, Hbf",
+        "address": "Eisenbahnstra\u00dfe 24, 72555 Metzingen",
+        "station_id": "127"
+      },
+      {
+        "lat": 48.522279,
+        "lon": 9.058081,
+        "name": "Wilhelmstra\u00dfe 3, Kino Museum",
+        "address": "Wilhelmstra\u00dfe 3, 72074 T\u00fcbingen",
+        "station_id": "131"
+      },
+      {
+        "lat": 48.495991,
+        "lon": 9.215111,
+        "name": "Bismarkstr.23",
+        "address": "Bismarckstra\u00dfe 23, 72764 Reutlingen",
+        "station_id": "132"
+      },
+      {
+        "lat": 48.515501,
+        "lon": 9.150564,
+        "name": "Hauptstr.4, Rathaus",
+        "address": "Hauptstra\u00dfe 4, 72827 Wannweil",
+        "station_id": "137"
+      },
+      {
+        "lat": 48.490519,
+        "lon": 9.22052,
+        "name": "Leonhardsplatz",
+        "address": "Kaiserstra\u00dfe 72, 72764 Reutlingen",
+        "station_id": "142"
+      },
+      {
+        "lat": 48.522915,
+        "lon": 9.035864,
+        "name": "Handwerkerpark 7",
+        "address": "Handwerkerpark 7, 72070 T\u00fcbingen",
+        "station_id": "143"
+      },
+      {
+        "lat": 48.521958,
+        "lon": 9.058755,
+        "name": "Doblerstra\u00dfe 9-11",
+        "address": "Doblerstra\u00dfe 9-11, 72074 T\u00fcbingen",
+        "station_id": "147"
+      },
+      {
+        "lat": 48.511095,
+        "lon": 9.051567,
+        "name": "Derendinger Str.50",
+        "address": "Derendinger Stra\u00dfe 50A, 72072 T\u00fcbingen",
+        "station_id": "148"
+      },
+      {
+        "lat": 48.494944,
+        "lon": 9.206864,
+        "name": "Unter den Linden 17, Parkplatz Altes Postdepot",
+        "address": "Unter den Linden 17, 72762 Reutlingen",
+        "station_id": "149"
+      },
+      {
+        "lat": 48.508598,
+        "lon": 9.072978,
+        "name": "Sudetenstr.33",
+        "address": "Sudetenstra\u00dfe 33, 72072 T\u00fcbingen",
+        "station_id": "150"
+      },
+      {
+        "lat": 48.452385,
+        "lon": 9.057978,
+        "name": "Bahnhofstr. 14, Parkplatz",
+        "address": "Bahnhofstra\u00dfe 14, 72144 Du\u00dflingen",
+        "station_id": "151"
+      },
+      {
+        "lat": 48.520311,
+        "lon": 9.079441,
+        "name": "Bismarckstr.120",
+        "address": "Bismarckstra\u00dfe 120, 72072 T\u00fcbingen",
+        "station_id": "152"
+      },
+      {
+        "lat": 48.511598,
+        "lon": 9.051903,
+        "name": "Derendinger Stra\u00dfe 40",
+        "address": "Derendinger Stra\u00dfe 40, 72072 T\u00fcbingen",
+        "station_id": "153"
+      },
+      {
+        "lat": 48.524607,
+        "lon": 8.982424,
+        "name": "Ammertalbahnstr. 16, Bahnhof",
+        "address": "Ammertalbahnstra\u00dfe 16, 72070 T\u00fcbingen",
+        "station_id": "154"
+      },
+      {
+        "lat": 48.511828,
+        "lon": 9.037508,
+        "name": "Rappenberghalde 36",
+        "address": "Rappenberghalde 36, 72070 T\u00fcbingen",
+        "station_id": "155"
+      },
+      {
+        "lat": 48.497126,
+        "lon": 9.209094,
+        "name": "Burkhardt+Weber-Str.28, Hbf",
+        "address": "Burkhardt+Weber-Stra\u00dfe 28, 72760 Reutlingen",
+        "station_id": "157"
+      },
+      {
+        "lat": 48.520311,
+        "lon": 9.079441,
+        "name": "Ausweichstellplatz WS",
+        "address": "Bismarckstra\u00dfe 120, 72072 T\u00fcbingen",
+        "station_id": "158"
+      },
+      {
+        "lat": 48.482589,
+        "lon": 8.999243,
+        "name": "Sengentalstr. 16 - Turnhalle",
+        "address": "Sengentalstra\u00dfe 16, 72072 T\u00fcbingen",
+        "station_id": "160"
+      },
+      {
+        "lat": 48.528183,
+        "lon": 9.08891,
+        "name": "Hans-Sahl-Stra\u00dfe 4, Alte Weberei",
+        "address": "Hans-Sahl-Stra\u00dfe 2, 72074 T\u00fcbingen",
+        "station_id": "161"
+      },
+      {
+        "lat": 48.526925,
+        "lon": 9.087936,
+        "name": "N\u00fcrtinger Stra\u00dfe 38, Alte Weberei",
+        "address": "N\u00fcrtinger Stra\u00dfe 38, 72074 T\u00fcbingen",
+        "station_id": "162"
+      },
+      {
+        "lat": 48.513882,
+        "lon": 9.064793,
+        "name": "Eberhardstra\u00dfe 21, Eugenstra\u00dfe",
+        "address": "Eberhardstra\u00dfe 20-22, 72072 T\u00fcbingen",
+        "station_id": "163"
+      },
+      {
+        "lat": 48.543782,
+        "lon": 9.059531,
+        "name": "Wei\u00dfdornweg, Wendeplatte",
+        "address": "Wei\u00dfdornweg 12-14, 72076 T\u00fcbingen",
+        "station_id": "164"
+      },
+      {
+        "lat": 48.545769,
+        "lon": 9.059302,
+        "name": "Ulmenweg/Wendeplatte",
+        "address": "Ulmenweg 8, 72076 T\u00fcbingen",
+        "station_id": "165"
+      },
+      {
+        "lat": 48.545086,
+        "lon": 9.058461,
+        "name": "Weidenweg, Wendeplatte",
+        "address": "Weidenweg 10, 72076 T\u00fcbingen",
+        "station_id": "166"
+      },
+      {
+        "lat": 48.545478,
+        "lon": 9.061908,
+        "name": "Ligusterweg, Wendeplatte",
+        "address": "Ligusterweg 3, 72076 T\u00fcbingen",
+        "station_id": "167"
+      },
+      {
+        "lat": 48.544667,
+        "lon": 9.06193,
+        "name": "Eschenweg, Wendeplatte",
+        "address": "Eschenweg 16, 72076 T\u00fcbingen",
+        "station_id": "168"
+      },
+      {
+        "lat": 48.544013,
+        "lon": 9.062681,
+        "name": "Erlenweg, Wendeplatte",
+        "address": "Erlenweg 14, 72076 T\u00fcbingen",
+        "station_id": "169"
+      },
+      {
+        "lat": 48.543359,
+        "lon": 9.063364,
+        "name": "Eichenweg, Wendeplatte",
+        "address": "Eichenweg 7, 72076 T\u00fcbingen",
+        "station_id": "170"
+      },
+      {
+        "lat": 48.497043,
+        "lon": 9.063604,
+        "name": "Fuchsstra\u00dfe 43, Wendeplatte",
+        "address": "Fuchsstra\u00dfe 43, 72072 T\u00fcbingen",
+        "station_id": "171"
+      },
+      {
+        "lat": 48.509905,
+        "lon": 9.057995,
+        "name": "Huberstra\u00dfe 14",
+        "address": "Huberstra\u00dfe 12-14, 72072 T\u00fcbingen",
+        "station_id": "172"
+      },
+      {
+        "lat": 48.513774,
+        "lon": 9.065244,
+        "name": "Ludwigstra\u00dfe 18",
+        "address": "Eberhardstra\u00dfe 21, 72072 T\u00fcbingen",
+        "station_id": "173"
+      },
+      {
+        "lat": 48.528994,
+        "lon": 9.062823,
+        "name": "Mohlstra\u00dfe 11",
+        "address": "Mohlstra\u00dfe 11, 72074 T\u00fcbingen",
+        "station_id": "174"
+      },
+      {
+        "lat": 48.522163,
+        "lon": 9.046975,
+        "name": "Rappstra\u00dfe 21",
+        "address": "Rappstra\u00dfe  21, 72070 T\u00fcbingen",
+        "station_id": "175"
+      },
+      {
+        "lat": 48.509776,
+        "lon": 9.066626,
+        "name": "Alexanderstr.52/Ecke Mathildenstra\u00dfe",
+        "address": "Alexanderstra\u00dfe   52, 72072 T\u00fcbingen",
+        "station_id": "176"
+      },
+      {
+        "lat": 48.517294,
+        "lon": 9.071189,
+        "name": "Bismarckstra\u00dfe 66",
+        "address": "Bismarckstra\u00dfe  66, 72072 T\u00fcbingen",
+        "station_id": "177"
+      },
+      {
+        "lat": 48.519017,
+        "lon": 9.06875,
+        "name": "Gartenstra\u00dfe 62",
+        "address": "Gartenstra\u00dfe 62, 72074 T\u00fcbingen",
+        "station_id": "178"
+      },
+      {
+        "lat": 48.495663,
+        "lon": 9.209923,
+        "name": "Hauptbahnhof, Listplatz 1",
+        "address": "Listplatz 1, 72764 Reutlingen",
+        "station_id": "179"
+      },
+      {
+        "lat": 48.516371,
+        "lon": 9.067258,
+        "name": "Hanna-Bernheim-Stra\u00dfe 42, G\u00fcterbahnhof",
+        "address": "Hanna-Bernheimstra\u00dfe 42, 72072 T\u00fcbingen",
+        "station_id": "180"
+      },
+      {
+        "lat": 48.539669,
+        "lon": 9.008579,
+        "name": "Schlo\u00dfgartenstr.33, Parkplatz gegen\u00fcber",
+        "address": "Schlo\u00dfgartenstra\u00dfe 33 6, 72070 T\u00fcbingen",
+        "station_id": "181"
+      },
+      {
+        "lat": 48.516359,
+        "lon": 9.06549,
+        "name": "Hanna-Bernheim-Stra\u00dfe 12, G\u00fcterbahnhof",
+        "address": "Hanna-Bernheimstra\u00dfe 12, 72072 T\u00fcbingen",
+        "station_id": "182"
+      },
+      {
+        "lat": 48.501984,
+        "lon": 9.054028,
+        "name": "Paul-Dietz-Stra\u00dfe 15",
+        "address": "Paul-Dietz-Stra\u00dfe  15, 72072 T\u00fcbingen",
+        "station_id": "183"
+      },
+      {
+        "lat": 48.520504,
+        "lon": 9.04972,
+        "name": "Vor dem Haagtor 1",
+        "address": "Vor dem Haagtor 1, 72070 T\u00fcbingen",
+        "station_id": "184"
+      },
+      {
+        "lat": 48.508383,
+        "lon": 9.074152,
+        "name": "Wennfelder Garten 30",
+        "address": "Wennfelder Garten  30, 72072 T\u00fcbingen",
+        "station_id": "185"
+      },
+      {
+        "lat": 48.510736,
+        "lon": 9.062105,
+        "name": "Lorettoplatz 6",
+        "address": "Lorettoplatz 6, 72072 T\u00fcbingen",
+        "station_id": "186"
+      },
+      {
+        "lat": 48.533674,
+        "lon": 9.061924,
+        "name": "Im Rotbad/Ecke Corrensstra\u00dfe",
+        "address": "Corrensstra\u00dfe 34, 72076 T\u00fcbingen",
+        "station_id": "187"
+      },
+      {
+        "lat": 48.514643,
+        "lon": 9.054575,
+        "name": "Hegelstra\u00dfe 7",
+        "address": "Hegelstra\u00dfe 7, 72072 T\u00fcbingen",
+        "station_id": "188"
+      },
+      {
+        "lat": 48.472678,
+        "lon": 8.937864,
+        "name": "Poststra\u00dfe, Hauptbahnhof P&R",
+        "address": "Poststra\u00dfe , 72108 Rottenburg",
+        "station_id": "189"
+      },
+      {
+        "lat": 48.501568,
+        "lon": 8.995663,
+        "name": "Kingersheimer Str. 57, PP-Ortsverwaltung",
+        "address": "Kingersheimer Stra\u00dfe 57, 72070 T\u00fcbingen",
+        "station_id": "190"
+      },
+      {
+        "lat": 48.544134,
+        "lon": 9.047366,
+        "name": "Heuberger-Tor-Weg 3",
+        "address": "Heuberger-Tor-Weg  3, 72076 T\u00fcbingen",
+        "station_id": "191"
+      },
+      {
+        "lat": 48.515376,
+        "lon": 9.069136,
+        "name": "Eisenbahnstra\u00dfe 32 (Depot)",
+        "address": "Eisenbahnstra\u00dfe 37, 72072 T\u00fcbingen",
+        "station_id": "192"
+      },
+      {
+        "lat": 48.522976,
+        "lon": 9.054624,
+        "name": "Am Stadtgraben 27",
+        "address": "Am Stadtgraben 27, 72070 T\u00fcbingen",
+        "station_id": "193"
+      },
+      {
+        "lat": 48.465681,
+        "lon": 9.221432,
+        "name": "Schlo\u00dfstra\u00dfe 28",
+        "address": "Schlo\u00dfstra\u00dfe  28, 72793 Pfullingen",
+        "station_id": "194"
+      },
+      {
+        "lat": 48.479639,
+        "lon": 9.208456,
+        "name": "Unterm Georgenberg 7",
+        "address": "Unterm Georgenberg 7, 72762 Reutlingen",
+        "station_id": "195"
+      },
+      {
+        "lat": 48.51428,
+        "lon": 9.05474,
+        "name": "Schellingstra\u00dfe 4/2",
+        "address": "Schellingstra\u00dfe 4/2, 72072 T\u00fcbingen",
+        "station_id": "196"
+      },
+      {
+        "lat": 48.51953,
+        "lon": 9.20298,
+        "name": "Heilbronner Stra\u00dfe 94",
+        "address": "Heilbronner Stra\u00dfe  94, 72770 Reutlingen",
+        "station_id": "197"
+      },
+      {
+        "lat": 48.501042,
+        "lon": 9.199525,
+        "name": "Alice-Haarburger Stra\u00dfe 2",
+        "address": "Alice-Haarburger Stra\u00dfe 2, 72760 Reutlingen",
+        "station_id": "198"
+      }
+    ]
+  },
+  "last_updated": 1631029718,
+  "ttl": 60000
+}
