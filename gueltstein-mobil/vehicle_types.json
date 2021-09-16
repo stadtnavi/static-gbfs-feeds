@@ -3,14 +3,14 @@
   "ttl": 86400,
   "version": "2.2",
   "data": {
-    "vehicle_types": [ 
-    	{
-	    	"name": "Lastenrad",
-	    	"vehicle_type_id": "cargobike1",
-	    	"form_factor": "cargo",
-	    	"max_range_meter": 30000,
-	    	"propulsion_type": "electric_assist"
-	    }
-	]
+    "vehicle_types": [
+      {
+        "name": "Lastenrad",
+        "vehicle_type_id": "cargobike1",
+        "form_factor": "other",
+        "max_range_meter": 30000,
+        "propulsion_type": "electric_assist"
+      }
+  ]
   }
 }
