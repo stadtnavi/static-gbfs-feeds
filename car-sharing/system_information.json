@@ -3,7 +3,7 @@
     "language": "DE",
     "name": "Stadtmobil Stuttgart",
     "operator": "stadtmobil",
-    "system_id": "de.stadtnavi.stadtmobil.stuttgart",
+    "system_id": "car-sharing",
     "timezone": "Europe/Berlin",
     "url": "https://stuttgart.stadtmobil.de/privatkunden/",
     "feed_contact_mail": "support@herrenberg.stadtnavi.de"
