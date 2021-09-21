@@ -6,7 +6,7 @@
     "language": "DE",
     "name": "E-Lastenrad FaRe",
     "operator": "Bananologen",
-    "system_id": "de.stadtnavi.gbfs.bananologen",
+    "system_id": "cargo-bike",
     "timezone": "Europe/Berlin",
     "url": "https://www.herrenberg.de/fairtrade",
     "feed_contact_mail": "support@herrenberg.stadtnavi.de",

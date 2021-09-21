@@ -6,7 +6,7 @@
     "language": "DE",
     "name": "Gültstein mobil",
     "operator": "Gültstein mobil",
-    "system_id": "de.gueltsteinmobil.gbfs",
+    "system_id": "cargo-bike",
     "timezone": "Europe/Berlin",
     "url": "https://gueltsteinmobil.de/",
     "feed_contact_mail": "support@herrenberg.stadtnavi.de",

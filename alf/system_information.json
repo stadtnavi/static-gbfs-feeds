@@ -6,7 +6,7 @@
     "language": "DE",
     "name": "ALF Lastenrad Affstätt",
     "operator": "adfc Böblingen/Affstätter Bürgerschaft",
-    "system_id": "de.stadtnavi.gbfs.alf",
+    "system_id": "cargo-bike",
     "timezone": "Europe/Berlin",
     "url": "https://www.adfc-bw.de/boeblingen/",
     "feed_contact_mail": "support@herrenberg.stadtnavi.de",
