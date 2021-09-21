@@ -1,0 +1,11 @@
+name: CI
+on: [push]
+jobs:
+  jsonlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: sudo apt-get install -y python3-demjson
+      - run: find . -name *.json | xargs jsonlint
+

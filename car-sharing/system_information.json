@@ -6,7 +6,7 @@
     "system_id": "de.stadtnavi.stadtmobil.stuttgart",
     "timezone": "Europe/Berlin",
     "url": "https://stuttgart.stadtmobil.de/privatkunden/",
-    "feed_contact_mail": "support@herrenberg.stadtnavi.de",
+    "feed_contact_mail": "support@herrenberg.stadtnavi.de"
   },
   "last_updated": 1621184439,
   "ttl": 86400
