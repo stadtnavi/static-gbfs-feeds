@@ -1,13 +1,19 @@
 {
   "data": {
-    "language": "DE",
+    "language": "de-DE",
     "name": "teilAuto Neckar-Alb eG",
     "operator": "teilauto-neckar-alb",
     "system_id": "car-sharing",
-    "timezone": "Europe/Berlin",
+    "timezone": "CET",
     "url": "https://www.teilauto-neckar-alb.de/",
-    "feed_contact_mail": "info@mitfahrdezentrale.de"
+    "purchase_url": "https://www.teilauto-neckar-alb.de/online-anmelden/",
+    "email": "teilHaben@teilauto-neckar-alb.de",
+    "feed_contact_email": "info@mfdz.de",
+    "terms_url": "https://www.teilauto-neckar-alb.de/fileadmin/teilauto/downloads/AGB_01.07.2021.pdf",
+    "terms_last_updated": "2020-07-01",
+    "privacy_url": "https://www.teilauto-neckar-alb.de/datenschutz/"
   },
-  "last_updated": 1621184439,
-  "ttl": 86400
+  "last_updated": 1644403340,
+  "ttl": 60000,
+  "version": "2.2"
 }

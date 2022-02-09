@@ -1,7 +1,4 @@
 {
-  "last_updated": 1621036800,
-  "ttl": 86400,
-  "version": "2.2",
   "data": {
     "de": {
       "feeds": [
@@ -16,8 +13,23 @@
         {
           "name": "station_status",
           "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-teilauto-neckar-alb/station_status.json"
+        },
+        {
+          "name": "free_bike_status",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-teilauto-neckar-alb/free_bike_status.json"
+        },
+        {
+          "name": "vehicle_types",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-teilauto-neckar-alb/vehicle_types.json"
+        },
+        {
+          "name": "system_pricing_plans",
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-teilauto-neckar-alb/system_pricing_plans.json"
         }
       ]
     }
-  }
+  },
+  "last_updated": 1644403340,
+  "ttl": 60000,
+  "version": "2.2"
 }
