@@ -1,0 +1,15 @@
+{
+  "data": {
+    "language": "de-DE",
+    "name": "Stadtmobil Karlsruhe",
+    "operator": "stadtmbil-karlsruhe",
+    "system_id": "car-sharing",
+    "timezone": "CET",
+    "timezone": "Europe/Berlin",
+    "url": "https://karlsruhe.stadtmobil.de/privatkunden/",
+    "feed_contact_mail": "info@systect.de"
+  },
+  "last_updated": 1644403340,
+  "ttl": 60000,
+  "version": "2.2"
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "stations": [
+      {
+        "lat": 48.890227,
+        "lon": 8.706607,
+        "name": "Alfons-Kern-Schule Parkplatz",
+        "address": "Altst\u00e4dter Kirchenweg 2, 75175 Pforzheim",
+        "station_id": 1,
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/alfons-kern-schule-parkplatz/"
+        }
+      },
+      {
+        "lat": 48.883217020191,
+        "lon": 8.686763048172,
+        "name": "Alter Wasserturm",
+        "address": "Vogesenallee 56, 75173 Pforzheim",
+        "station_id": 2,
+        "capacity": 3,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/alter-wasserturm/"
+        }
+      },
+      {
+        "lat": 48.910137,
+        "lon": 8.744454,
+        "name": "Bahnhof Eutingen Parkplatz",
+        "address": "Brauereistra\u00dfe 3, 75181 Pforzheim",
+        "station_id": 3,
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/eutingen/"
+        }
+      },
+      {
+        "lat": 48.891026,
+        "lon": 8.689577,
+        "name": "Belfortstra\u00dfe",
+        "address": "Belfortstra\u00dfe 46, 75172 Pforzheim",
+        "station_id": 4,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/belfortstrasse/"
+        }
+      },
+      {
+        "lat": 48.870882,
+        "lon": 8.668705,
+        "name": "Carl-Schurz-Stra\u00dfe",
+        "address": "Carl-Schurz-Stra\u00dfe 44, 75180 Pforzheim",
+        "station_id": 5,
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/carl-schurz-strasse/"
+        }
+      },
+      {
+        "lat": 48.88888,
+        "lon": 8.703698,
+        "name": "Emma-J\u00e4ger-Stra\u00dfe",
+        "address": "Emma-Jaeger-Stra\u00dfe 1, 75175 Pforzheim",
+        "station_id": 6,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/emma-jaeger-strasse/"
+        }
+      },
+      {
+        "lat": 48.89374,
+        "lon": 8.706557,
+        "name": "Hauptbahnhof Pforzheim",
+        "address": "Hauptbahnhof Pforzheim , 75177 Pforzheim",
+        "station_id": 7,
+        "capacity": 5,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-pforzheim/"
+        }
+      },
+      {
+        "lat": 48.901449137341,
+        "lon": 8.71889591217,
+        "name": "Kreuzsteinallee",
+        "address": "Kreuzsteinallee 56, 75177 Pforzheim",
+        "station_id": 8,
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kreuzsteinallee/"
+        }
+      },
+      {
+        "lat": 48.895482225012,
+        "lon": 8.702877759933,
+        "name": "Kronprinzen PFORZHEIM",
+        "address": "Kronprinzenstra\u00dfe 2, 75177 Pforzheim",
+        "station_id": 9,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kronprinzen-pforzheim/"
+        }
+      },
+      {
+        "lat": 48.88349,
+        "lon": 8.696574,
+        "name": "Kupferd\u00e4chle",
+        "address": "Kallhardtstra\u00dfe 30, 75173 Pforzheim",
+        "station_id": 10,
+        "capacity": 2,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kupferdaechle/"
+        }
+      },
+      {
+        "lat": 48.894725142714,
+        "lon": 8.702931404114,
+        "name": "Landratsamt Enzkreis",
+        "address": "Z\u00e4hringerallee 3, 75177 Pforzheim",
+        "station_id": 11,
+        "capacity": 5,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/landratsamt-enzkreis/"
+        }
+      },
+      {
+        "lat": 48.897475,
+        "lon": 8.686185,
+        "name": "Lisztstra\u00dfe Parkplatz",
+        "address": "Lisztstra\u00dfe 17, 75179 Pforzheim",
+        "station_id": 12,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/lisztstrasse/"
+        }
+      },
+      {
+        "lat": 48.89362,
+        "lon": 8.698999,
+        "name": "Luisenstra\u00dfe Pforzheim Sparkasse Parkhaus",
+        "address": "Luisenstra\u00dfe 7, 75172 Pforzheim",
+        "station_id": 13,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/luisenstrasse-sparkasse-pforzheim/"
+        }
+      },
+      {
+        "lat": 48.891536,
+        "lon": 8.67454,
+        "name": "Post Br\u00f6tzingen",
+        "address": "Viktoriastra\u00dfe 5, 75172 Pforzheim",
+        "station_id": 14,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/post-broetzingen/"
+        }
+      },
+      {
+        "lat": 48.881983,
+        "lon": 8.700823,
+        "name": "Schellingstra\u00dfe",
+        "address": "Schellingstra\u00dfe 36, 75175 Pforzheim",
+        "station_id": 15,
+        "capacity": 1
+      },
+      {
+        "lat": 48.8473241,
+        "lon": 8.5467075,
+        "name": "Schwann Rathaus",
+        "address": "Dobler Stra\u00dfe 2, 75334 Straubenhardt",
+        "station_id": 16,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rathaus-schwann/"
+        }
+      },
+      {
+        "lat": 48.8548127,
+        "lon": 8.5314279,
+        "name": "Rathaus Feldrennach",
+        "address": "Ittersbacher Stra\u00dfe 1/1, 75334 Straubenhardt",
+        "station_id": 17,
+        "capacity": 1,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rathaus-feldrennach/"
+        }
+      }
+    ]
+  },
+  "last_updated": 1650261261,
+  "ttl": 60000,
+  "version": "2.2"
+}
