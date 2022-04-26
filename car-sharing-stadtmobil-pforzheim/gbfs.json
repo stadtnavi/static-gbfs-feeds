@@ -4,20 +4,20 @@
       "feeds": [
         {
           "name": "system_information",
-          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-pforzheim/system_information.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-karlsruhe/system_information.json"
         },
         {
           "name": "station_information",
-          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-pforzheim/station_information.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-karlsruhe/station_information.json"
         },
         {
           "name": "station_status",
-          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-pforzheim/station_status.json"
+          "url": "https://raw.githubusercontent.com/stadtnavi/static-gbfs-feeds/master/car-sharing-stadtmobil-karlsruhe/station_status.json"
         }
       ]
     }
   },
-  "last_updated": 1644403340,
+  "last_updated": 1650956022,
   "ttl": 60000,
   "version": "2.2"
 }

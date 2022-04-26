@@ -2,13 +2,17 @@
   "data": {
     "language": "de-DE",
     "name": "Stadtmobil Karlsruhe",
-    "operator": "stadtmbil-karlsruhe",
+    "operator": "stadtmobil-karlsruhe",
     "system_id": "car-sharing",
-    "timezone": "Europe/Berlin",
-    "url": "https://karlsruhe.stadtmobil.de/privatkunden/",
-    "feed_contact_mail": "info@systect.de"
+    "timezone": "CET",
+    "url": "https://karlsruhe.stadtmobil.de/",
+    "purchase_url": "https://karlsruhe.stadtmobil.de/privatkunden/kunde-werden/",
+    "email": "info@karlsruhe.stadtmobil.de ",
+    "feed_contact_email": "info@mfdz.de",
+    "terms_url": "https://karlsruhe.stadtmobil.de/agb/",
+    "privacy_url": "https://karlsruhe.stadtmobil.de/datenschutz/"
   },
-  "last_updated": 1644403340,
+  "last_updated": 1650956022,
   "ttl": 60000,
   "version": "2.2"
 }
