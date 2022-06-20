@@ -1,7 +1,4 @@
 {
-  "last_updated": 1621036800,
-  "ttl": 86400,
-  "version": "2.2",
   "data": {
     "de": {
       "feeds": [
@@ -19,5 +16,8 @@
         }
       ]
     }
-  }
+  },
+  "last_updated": 1655720312,
+  "ttl": 60000,
+  "version": "2.2"
 }
