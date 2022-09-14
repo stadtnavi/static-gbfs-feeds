@@ -1,0 +1,19 @@
+{
+  "data": {
+    "language": "de",
+    "name": "CarSharing Renningen",
+    "operator": "\u00d6kostadt Renningen e.V.",
+    "system_id": "car-sharing",
+    "timezone": "CET",
+    "url": "https://carsharing-renningen.de/",
+    "purchase_url": "https://carsharing-renningen.de/nutzer-werden/",
+    "email": "info@oekostadt-renningen.de",
+    "feed_contact_email": "info@mfdz.de",
+    "terms_url": "https://carsharing-renningen.de/wp-content/uploads/2021/10/Nutzungsordnung-von-CarSharing-Renningen-CI.pdf",
+    "terms_last_updated": "2021-11-19",
+    "privacy_url": "https://carsharing-renningen.de/wp-content/uploads/2021/12/Oekostadt-Renningen_CarSharing-Datenschutz.pdf"
+  },
+  "last_updated": 1663154606,
+  "ttl": 60000,
+  "version": "2.2"
+}

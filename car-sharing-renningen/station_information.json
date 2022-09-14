@@ -1,0 +1,170 @@
+{
+  "data": {
+    "stations": [
+      {
+        "lat": 48.770899,
+        "lon": 8.936345,
+        "name": "Goethestra\u00dfe",
+        "address": "Goethestra\u00dfe 18, 71272 Renningen",
+        "station_id": "1"
+      },
+      {
+        "lat": 48.767457,
+        "lon": 8.933925,
+        "name": "Wiesenstra\u00dfe",
+        "address": "Jahnstra\u00dfe 9, 71272 Renningen",
+        "station_id": "2"
+      },
+      {
+        "lat": 48.776048,
+        "lon": 8.941079,
+        "name": "Merowinger Weg",
+        "address": "Merowingerweg 5-11, 71272 Renningen",
+        "station_id": "3"
+      },
+      {
+        "lat": 48.775095,
+        "lon": 8.903951,
+        "name": "Kasernenstra\u00dfe",
+        "address": "Kasernenstra\u00dfe 1, 71272 Renningen",
+        "station_id": "4"
+      },
+      {
+        "lat": 48.774038,
+        "lon": 8.907892,
+        "name": "Amselweg",
+        "address": "Amselweg 7, 71272 Renningen",
+        "station_id": "5"
+      },
+      {
+        "lat": 48.763026,
+        "lon": 8.931672,
+        "name": "S\u00fcdbahnhof",
+        "address": "Am Pfarrtor 1, 71272 Renningen",
+        "station_id": "6"
+      },
+      {
+        "lat": 48.771914,
+        "lon": 8.903168,
+        "name": "Calwer Stra\u00dfe / P & R",
+        "address": "Calwer Stra\u00dfe 25, 71272 Renningen",
+        "station_id": "7"
+      },
+      {
+        "lat": 48.768873,
+        "lon": 8.938576,
+        "name": "Rutesheimer Stra\u00dfe",
+        "address": "Rutesheimer Stra\u00dfe 13, 71272 Renningen",
+        "station_id": "8"
+      },
+      {
+        "lat": 48.774579,
+        "lon": 8.932,
+        "name": "Bahnhof Renningen",
+        "address": "Alte Bahnhofstra\u00dfe 1, 71272 Renningen",
+        "station_id": "9"
+      },
+      {
+        "lat": 48.769243,
+        "lon": 8.935923,
+        "name": "Friedenstra\u00dfe",
+        "address": "Friedenstra\u00dfe 8, 71272 Renningen",
+        "station_id": "10"
+      },
+      {
+        "lat": 48.765236,
+        "lon": 8.935912,
+        "name": "Kronenstra\u00dfe",
+        "address": "Kronenstra\u00dfe 8, 71272 Renningen",
+        "station_id": "11"
+      },
+      {
+        "lat": 48.77576,
+        "lon": 8.914065,
+        "name": "Nelkenstra\u00dfe 42",
+        "address": "Nelkenstra\u00dfe 42, 71272 Renningen",
+        "station_id": "15"
+      },
+      {
+        "lat": 48.77033,
+        "lon": 8.94293,
+        "name": "Am Schlaggraben 19",
+        "address": "Am Schlaggraben 19, 71272 Renningen",
+        "station_id": "16"
+      },
+      {
+        "lat": 48.755,
+        "lon": 8.873,
+        "name": "Schie\u00dfrainweg",
+        "address": "Bahnhofstra\u00dfe 3, 71263 Weil der Stadt",
+        "station_id": "17"
+      },
+      {
+        "lat": 48.755,
+        "lon": 8.865,
+        "name": "Franz-Hammer-Stra\u00dfe 17",
+        "address": "Franz-Hammer-Stra\u00dfe 23, 71263 Weil der Stadt",
+        "station_id": "20"
+      },
+      {
+        "lat": 48.775,
+        "lon": 8.916,
+        "name": "Strohg\u00e4ustra\u00dfe",
+        "address": "Strohg\u00e4ustra\u00dfe 1, 71272 Renningen",
+        "station_id": "22"
+      },
+      {
+        "lat": 48.77787,
+        "lon": 8.899971,
+        "name": "Tannenstra\u00dfe 6",
+        "address": "Tannenstra\u00dfe 8, 71272 Renningen",
+        "station_id": "23"
+      },
+      {
+        "lat": 48.7738,
+        "lon": 8.937037,
+        "name": "Mozartstra\u00dfe 23",
+        "address": "Mozartstra\u00dfe 23, 71272 Renningen",
+        "station_id": "24"
+      },
+      {
+        "lat": 48.7677,
+        "lon": 8.854,
+        "name": "Untere Talstra\u00dfe",
+        "address": "Untere Talstra\u00dfe 24, 71263 Weil der Stadt",
+        "station_id": "25"
+      },
+      {
+        "lat": 48.7756,
+        "lon": 8.9163,
+        "name": "Strohg\u00e4ustra\u00dfe 3 MGH",
+        "address": "Strohg\u00e4ustra\u00dfe 3, 71272 Renningen",
+        "station_id": "26"
+      },
+      {
+        "lat": 48.74916,
+        "lon": 8.872,
+        "name": "Carlo-Schmid-Platz",
+        "address": "Carlo-Schmid-Platz , 71263 Weil der Stadt",
+        "station_id": "27"
+      },
+      {
+        "lat": 48.7234,
+        "lon": 8.8937,
+        "name": "D\u00f6ffinger Stra\u00dfe 41",
+        "address": "D\u00f6ffinger Stra\u00dfe 40, 71263 Weil der Stadt",
+        "station_id": "28"
+      },
+      {
+        "lat": 48.766,
+        "lon": 8.983,
+        "name": "K\u00fcnzenstra\u00dfe 10",
+        "address": "K\u00fcnzenstra\u00dfe 24, 71229 Leonberg",
+        "station_id": "29"
+      }
+    ]
+  },
+  "last_updated": 1663154606,
+  "ttl": 60000,
+  "version": "2.2"
+}
