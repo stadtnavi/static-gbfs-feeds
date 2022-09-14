@@ -3,7 +3,7 @@
   "ttl": 86400,
   "version": "2.2",
   "data": {
-    "language": "DE",
+    "language": "de",
     "name": "ALF Lastenrad Affstätt",
     "operator": "adfc Böblingen/Affstätter Bürgerschaft",
     "system_id": "cargo-bike",

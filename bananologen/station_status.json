@@ -6,6 +6,7 @@
     "stations": [
       {
         "num_bikes_available": 1,
+        "last_reported": 1621036800,
         "is_installed": true,
         "is_renting": true,
         "is_returning": true,
