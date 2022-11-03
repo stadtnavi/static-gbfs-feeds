@@ -132,36 +132,6 @@
         }
       },
       {
-        "station_id": "354885",
-        "name": "Alte Weingartener Stra\u00dfe 27 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.002365,
-        "lon": 8.478563333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/alte-weingartener-strasse-27-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354886",
-        "name": "Alte Weingartener Stra\u00dfe 38-40 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0028733,
-        "lon": 8.478735,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/alte-weingartener-strasse-38-40-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354895",
-        "name": "Alte Weingartener Stra\u00dfe 38-40 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.002715,
-        "lon": 8.478746667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/alte-weingartener-strasse-38-40-stadtflitzer-1/"
-        }
-      },
-      {
         "station_id": "228",
         "name": "Alter Schlachthof",
         "address": "Karlsruhe",
@@ -292,16 +262,6 @@
         }
       },
       {
-        "station_id": "354692",
-        "name": "Auer Stra\u00dfe 50A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9949517,
-        "lon": 8.46271,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/auer-strasse-50a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "23281",
         "name": "Auf den Lohn",
         "address": "Karlsruhe",
@@ -309,26 +269,6 @@
         "lon": 8.453674,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/auf-den-lohn/"
-        }
-      },
-      {
-        "station_id": "354734",
-        "name": "Auf den Lohn 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99394,
-        "lon": 8.45446,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/auf-den-lohn-8-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354659",
-        "name": "August-Bebel-Stra\u00dfe 44 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.02476,
-        "lon": 8.37466,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/august-bebel-strasse-44-stadtflitzer/"
         }
       },
       {
@@ -372,16 +312,6 @@
         }
       },
       {
-        "station_id": "354896",
-        "name": "B3 49 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99321,
-        "lon": 8.47352,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/b3-49-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "235",
         "name": "Bachstra\u00dfe Tiefgarage",
         "address": "Karlsruhe",
@@ -389,26 +319,6 @@
         "lon": 8.365552425,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/bachstrasse/"
-        }
-      },
-      {
-        "station_id": "354897",
-        "name": "Badener Stra\u00dfe 13 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9971733,
-        "lon": 8.476798333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/badener-strasse-13-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354872",
-        "name": "Badener Stra\u00dfe 29 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99619,
-        "lon": 8.47593,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/badener-strasse-29-stadtflitzer/"
         }
       },
       {
@@ -602,6 +512,36 @@
         }
       },
       {
+        "station_id": "372129",
+        "name": "Bahnhof Rastatt Parkplatz",
+        "address": "Rastatt",
+        "lat": 48.86114,
+        "lon": 8.215138,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/bahnhof-rastatt-parkplatz/"
+        }
+      },
+      {
+        "station_id": "416072",
+        "name": "Bahnhof Remchingen Parkplatz",
+        "address": "Remchingen",
+        "lat": 48.953505,
+        "lon": 8.570222,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/bahnhof-remchingen-parkplatz/"
+        }
+      },
+      {
+        "station_id": "366620",
+        "name": "Bahnhof Untergrombach Parkplatz",
+        "address": "Bruchsal",
+        "lat": 49.088057,
+        "lon": 8.548957,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/bahnhof-untergrombach-parkplatz/"
+        }
+      },
+      {
         "station_id": "253570",
         "name": "Bahnhof Weingarten Parkplatz",
         "address": "Weingarten (Baden)",
@@ -662,16 +602,6 @@
         }
       },
       {
-        "station_id": "354899",
-        "name": "Basler-Tor-Stra\u00dfe 19 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99587,
-        "lon": 8.46939,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/basler-tor-strasse-19-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "242",
         "name": "Battstra\u00dfe",
         "address": "Karlsruhe",
@@ -679,16 +609,6 @@
         "lon": 8.406107426,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/battstrasse/"
-        }
-      },
-      {
-        "station_id": "354914",
-        "name": "Beiertheimer Allee 36 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9981017,
-        "lon": 8.396221667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/beiertheimer-allee-36-stadtflitzer/"
         }
       },
       {
@@ -792,16 +712,6 @@
         }
       },
       {
-        "station_id": "354925",
-        "name": "Bismarckstra\u00dfe 6 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0133783,
-        "lon": 8.395621667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/bismarckstrasse-6-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "342938",
         "name": "Blankenlocher Stra\u00dfe",
         "address": "Linkenheim-Hochstetten",
@@ -832,46 +742,6 @@
         }
       },
       {
-        "station_id": "354928",
-        "name": "Blumentorstra\u00dfe 21 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.000715,
-        "lon": 8.474478333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/blumentorstrasse-21-stadtflitzer-1/"
-        }
-      },
-      {
-        "station_id": "354860",
-        "name": "Blumentorstra\u00dfe 21 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0007767,
-        "lon": 8.474626667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/blumentorstrasse-21-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354856",
-        "name": "Boeckhstra\u00dfe 34 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00046,
-        "lon": 8.388145,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/boeckhstrasse-34-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354907",
-        "name": "Boeckhstra\u00dfe 6 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0026133,
-        "lon": 8.38898,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/boeckhstrasse-6-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "174",
         "name": "Brahmsplatz Parkplatz",
         "address": "Baden-Baden",
@@ -889,16 +759,6 @@
         "lon": 8.368,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/brahmsstrasse-i/"
-        }
-      },
-      {
-        "station_id": "354654",
-        "name": "Brahmsstra\u00dfe 6 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01325,
-        "lon": 8.36757,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/brahmsstrasse-6-stadtflitzer/"
         }
       },
       {
@@ -1022,16 +882,6 @@
         }
       },
       {
-        "station_id": "354873",
-        "name": "Christofstra\u00dfe 13 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.999465,
-        "lon": 8.46228,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/christofstrasse-13-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "253557",
         "name": "Cornichonstra\u00dfe",
         "address": "Landau",
@@ -1062,16 +912,6 @@
         }
       },
       {
-        "station_id": "354649",
-        "name": "Dollm\u00e4tschstra\u00dfe 9 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0146567,
-        "lon": 8.43604,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/dollmaetschstrasse-9-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "64516",
         "name": "Donauschwabenstra\u00dfe",
         "address": "Karlsruhe",
@@ -1089,16 +929,6 @@
         "lon": 8.389528,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/donaustrasse/"
-        }
-      },
-      {
-        "station_id": "354699",
-        "name": "Donaustra\u00dfe 35 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98243,
-        "lon": 8.39008,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/donaustrasse-35-stadtflitzer/"
         }
       },
       {
@@ -1232,26 +1062,6 @@
         }
       },
       {
-        "station_id": "354679",
-        "name": "Ellmendinger Stra\u00dfe 22 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9924783,
-        "lon": 8.45962,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ellmendinger-strasse-22-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354683",
-        "name": "Ellmendinger Stra\u00dfe 72 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99379,
-        "lon": 8.451836667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ellmendinger-strasse-72-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "405",
         "name": "Els\u00e4sser Stra\u00dfe",
         "address": "Stutensee",
@@ -1282,16 +1092,6 @@
         }
       },
       {
-        "station_id": "354671",
-        "name": "Enzstra\u00dfe 39 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98614,
-        "lon": 8.390645,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/enzstrasse-39-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "197",
         "name": "Epernayer Stra\u00dfe",
         "address": "Ettlingen",
@@ -1309,16 +1109,6 @@
         "lon": 8.443933,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/eppingerstrasse/"
-        }
-      },
-      {
-        "station_id": "354863",
-        "name": "Ernst-Friedrich-Stra\u00dfe 1A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9994233,
-        "lon": 8.464473333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ernst-friedrich-strasse-1a-stadtflitzer/"
         }
       },
       {
@@ -1362,16 +1152,6 @@
         }
       },
       {
-        "station_id": "354888",
-        "name": "Erzbergerstra\u00dfe 40 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0153983,
-        "lon": 8.38567,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/erzbergerstrasse-40-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "260",
         "name": "Essenweinstra\u00dfe Hof",
         "address": "Karlsruhe",
@@ -1389,16 +1169,6 @@
         "lon": 8.404503,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ettlinger-strasse/"
-        }
-      },
-      {
-        "station_id": "354864",
-        "name": "Ettlinger Stra\u00dfe 3B (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0028517,
-        "lon": 8.403358333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ettlinger-strasse-3b-stadtflitzer/"
         }
       },
       {
@@ -1432,26 +1202,6 @@
         }
       },
       {
-        "station_id": "354662",
-        "name": "Feldbergplatz 3A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9848667,
-        "lon": 8.390181667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/feldbergplatz-3a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354729",
-        "name": "Feldbergstra\u00dfe 4 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.984335,
-        "lon": 8.392503333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/feldbergstrasse-4-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "217816",
         "name": "Festhalle Durlach (i)",
         "address": "Karlsruhe",
@@ -1482,16 +1232,6 @@
         }
       },
       {
-        "station_id": "354644",
-        "name": "Fichtestra\u00dfe 1A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01285,
-        "lon": 8.391386667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/fichtestrasse-1a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "255218",
         "name": "Forlenweg",
         "address": "Karlsruhe",
@@ -1512,26 +1252,6 @@
         }
       },
       {
-        "station_id": "354697",
-        "name": "Forststra\u00dfe 65 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.012785,
-        "lon": 8.444515,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/forststrasse-65-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354921",
-        "name": "Frankenstra\u00dfe 20 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99661,
-        "lon": 8.3878,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/frankenstrasse-20-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "262",
         "name": "Friedhof-Aue",
         "address": "Karlsruhe",
@@ -1539,16 +1259,6 @@
         "lon": 8.4542799,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/friedhof-aue/"
-        }
-      },
-      {
-        "station_id": "354718",
-        "name": "Friedrich-Blos-Stra\u00dfe 33 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0193283,
-        "lon": 8.381471667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/friedrich-blos-strasse-33-stadtflitzer/"
         }
       },
       {
@@ -1582,16 +1292,6 @@
         }
       },
       {
-        "station_id": "354881",
-        "name": "Gabelsbergerstra\u00dfe 1 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0080317,
-        "lon": 8.376043333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gabelsbergerstrasse-1-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "265",
         "name": "Gartenstra\u00dfe Parkplatz Hof",
         "address": "Karlsruhe",
@@ -1599,16 +1299,6 @@
         "lon": 8.387479,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gartenstrasse/"
-        }
-      },
-      {
-        "station_id": "354647",
-        "name": "G\u00e4rtnerstra\u00dfe 27 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.997365,
-        "lon": 8.467768333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gaertnerstrasse-27-stadtflitzer/"
         }
       },
       {
@@ -1622,16 +1312,6 @@
         }
       },
       {
-        "station_id": "354875",
-        "name": "Gebhardstra\u00dfe 33 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9943083,
-        "lon": 8.390343333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gebhardstrasse-33-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "138443",
         "name": "Gemeindezentrum W\u00fcrmersheim",
         "address": "Durmersheim",
@@ -1639,26 +1319,6 @@
         "lon": 8.253464,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gemeindezentrum-wuermersheim/"
-        }
-      },
-      {
-        "station_id": "354858",
-        "name": "Georg-Friedrich-Stra\u00dfe 14 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0103383,
-        "lon": 8.423255,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/georg-friedrich-strasse-14-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354878",
-        "name": "Georg-Friedrich-Stra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01088,
-        "lon": 8.42311,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/georg-friedrich-strasse-2-stadtflitzer/"
         }
       },
       {
@@ -1672,36 +1332,6 @@
         }
       },
       {
-        "station_id": "354865",
-        "name": "Geranienstra\u00dfe 26 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0083783,
-        "lon": 8.369486667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/geranienstrasse-26-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354918",
-        "name": "Gerwigstra\u00dfe 34 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00866,
-        "lon": 8.428331667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gerwigstrasse-34-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354655",
-        "name": "Gerwigstra\u00dfe 6 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0094067,
-        "lon": 8.424486667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gerwigstrasse-6-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "253572",
         "name": "Goethestra\u00dfe",
         "address": "Weingarten (Baden)",
@@ -1712,16 +1342,6 @@
         }
       },
       {
-        "station_id": "354724",
-        "name": "Goethestra\u00dfe 35 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00921,
-        "lon": 8.377486667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/goethestrasse-35-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "268",
         "name": "Gottesauer Platz",
         "address": "Karlsruhe",
@@ -1729,26 +1349,6 @@
         "lon": 8.424284,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gottesauer-platz/"
-        }
-      },
-      {
-        "station_id": "354912",
-        "name": "Gottesauer Stra\u00dfe 24 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0063667,
-        "lon": 8.421181667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gottesauer-strasse-24-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354893",
-        "name": "Gottesauer Stra\u00dfe 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0074917,
-        "lon": 8.418838333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gottesauer-strasse-8-stadtflitzer/"
         }
       },
       {
@@ -1792,16 +1392,6 @@
         }
       },
       {
-        "station_id": "354882",
-        "name": "Grazer Stra\u00dfe 1 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.990635,
-        "lon": 8.454951667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/grazer-strasse-1-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "273657",
         "name": "Grenadierstra\u00dfe Tiefgarage",
         "address": "Karlsruhe",
@@ -1842,16 +1432,6 @@
         }
       },
       {
-        "station_id": "354923",
-        "name": "Gr\u00f6tzinger Stra\u00dfe 57 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00177,
-        "lon": 8.48153,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/groetzinger-strasse-57-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "49493",
         "name": "Gr\u00fcnewaldstra\u00dfe Hof",
         "address": "Karlsruhe",
@@ -1869,16 +1449,6 @@
         "lon": 8.379743,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gruenwinkler-strasse/"
-        }
-      },
-      {
-        "station_id": "354719",
-        "name": "Gutenbergstra\u00dfe 5 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0085233,
-        "lon": 8.375341667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/gutenbergstrasse-5-stadtflitzer/"
         }
       },
       {
@@ -1942,16 +1512,6 @@
         }
       },
       {
-        "station_id": "354855",
-        "name": "Hans-Sachs-Stra\u00dfe 1 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0100383,
-        "lon": 8.386408333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hans-sachs-strasse-1-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "272",
         "name": "Hans-Sachs-Stra\u00dfe Parkplatz",
         "address": "Karlsruhe",
@@ -1969,16 +1529,6 @@
         "lon": 8.42007637,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hansjakobstrasse/"
-        }
-      },
-      {
-        "station_id": "354901",
-        "name": "Hardtstra\u00dfe 39B (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01365,
-        "lon": 8.35924,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hardtstrasse-39b-stadtflitzer/"
         }
       },
       {
@@ -2042,16 +1592,6 @@
         }
       },
       {
-        "station_id": "354894",
-        "name": "Hedwig-Kettler-Stra\u00dfe 14 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00265,
-        "lon": 8.416901667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hedwig-kettler-strasse-14-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "40550",
         "name": "Heide-Bocksdornweg",
         "address": "Karlsruhe",
@@ -2069,16 +1609,6 @@
         "lon": 8.504947112,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/heinrich-heine-strasse/"
-        }
-      },
-      {
-        "station_id": "354678",
-        "name": "Helmertstra\u00dfe 9 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0137233,
-        "lon": 8.43308,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/helmertstrasse-9-stadtflitzer/"
         }
       },
       {
@@ -2132,16 +1662,6 @@
         }
       },
       {
-        "station_id": "354661",
-        "name": "Hermine-Villinger-Stra\u00dfe 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0116633,
-        "lon": 8.437741667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hermine-villinger-strasse-8-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "291067",
         "name": "Herrenalber Stra\u00dfe",
         "address": "Rheinstetten",
@@ -2192,16 +1712,6 @@
         }
       },
       {
-        "station_id": "354898",
-        "name": "Hirschstra\u00dfe 150B (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.997625,
-        "lon": 8.390453333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hirschstrasse-150b-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "280",
         "name": "Hofgarten Tiefgarage",
         "address": "Karlsruhe",
@@ -2232,16 +1742,6 @@
         }
       },
       {
-        "station_id": "354666",
-        "name": "H\u00fcbschstra\u00dfe 30 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00452,
-        "lon": 8.372523333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/huebschstrasse-30-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "262465",
         "name": "Hugo-R\u00fcmelin-Stra\u00dfe",
         "address": "Heilbronn",
@@ -2249,26 +1749,6 @@
         "lon": 9.211234,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/hugo-ruemelin-strasse/"
-        }
-      },
-      {
-        "station_id": "354663",
-        "name": "Humboldtstra\u00dfe 2A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0108183,
-        "lon": 8.429376667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/humboldtstrasse-2a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354721",
-        "name": "Humboldtstra\u00dfe 2A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0109317,
-        "lon": 8.429471667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/humboldtstrasse-2a-stadtflitzer-1/"
         }
       },
       {
@@ -2299,16 +1779,6 @@
         "lon": 8.19721,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/im-stadtkern/"
-        }
-      },
-      {
-        "station_id": "354673",
-        "name": "Indianaring 50C (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0328633,
-        "lon": 8.391361667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/indianaring-50c-stadtflitzer/"
         }
       },
       {
@@ -2352,33 +1822,23 @@
         }
       },
       {
-        "station_id": "354733",
-        "name": "K9654 14 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99531,
-        "lon": 8.480095,
+        "station_id": "426623",
+        "name": "J\u00f6hlinger Stra\u00dfe",
+        "address": "Weingarten (Baden)",
+        "lat": 49.05182,
+        "lon": 8.53957,
         "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/k9654-14-stadtflitzer/"
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/joehlinger-strasse/"
         }
       },
       {
-        "station_id": "354717",
-        "name": "K9654 47 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9949867,
-        "lon": 8.481821667,
+        "station_id": "406109",
+        "name": "J\u00f6rg-Ratgeb-Stra\u00dfe / SWP",
+        "address": "Pforzheim",
+        "lat": 48.8887,
+        "lon": 8.70019,
         "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/k9654-47-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354714",
-        "name": "K9658 54 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.03339,
-        "lon": 8.39081,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/k9658-54-stadtflitzer/"
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/joerg-ratgeb-strasse/"
         }
       },
       {
@@ -2422,16 +1882,6 @@
         }
       },
       {
-        "station_id": "354911",
-        "name": "Kalliwodastra\u00dfe 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01316,
-        "lon": 8.366436667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kalliwodastrasse-8-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "253573",
         "name": "Kanalstra\u00dfe",
         "address": "Weingarten (Baden)",
@@ -2439,16 +1889,6 @@
         "lon": 8.524886,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kanalstrasse/"
-        }
-      },
-      {
-        "station_id": "354651",
-        "name": "Kanalweg 60 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.03141,
-        "lon": 8.392436667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kanalweg-60-stadtflitzer/"
         }
       },
       {
@@ -2482,16 +1922,6 @@
         }
       },
       {
-        "station_id": "354711",
-        "name": "Karl-Weysser-Stra\u00dfe 11 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.998455,
-        "lon": 8.476073333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/karl-weysser-strasse-11-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "214",
         "name": "Karlstra\u00dfe",
         "address": "Heilbronn",
@@ -2499,16 +1929,6 @@
         "lon": 9.221740365,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/karlstrasse/"
-        }
-      },
-      {
-        "station_id": "354861",
-        "name": "Karlstra\u00dfe 55 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0038817,
-        "lon": 8.394551667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/karlstrasse-55-stadtflitzer/"
         }
       },
       {
@@ -2542,6 +1962,16 @@
         }
       },
       {
+        "station_id": "366690",
+        "name": "Kentuckyallee",
+        "address": "Karlsruhe",
+        "lat": 49.028113,
+        "lon": 8.392961,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kentuckyallee/"
+        }
+      },
+      {
         "station_id": "222942",
         "name": "KiGa St. Johannes (i)",
         "address": "Karlsruhe",
@@ -2559,26 +1989,6 @@
         "lon": 8.427183,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kiga-essenweinstrasse/"
-        }
-      },
-      {
-        "station_id": "354904",
-        "name": "Killisfeldstra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99736,
-        "lon": 8.46031,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/killisfeldstrasse-2-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354700",
-        "name": "Killisfeldstra\u00dfe 27 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99671,
-        "lon": 8.45639,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/killisfeldstrasse-27-stadtflitzer/"
         }
       },
       {
@@ -2682,16 +2092,6 @@
         }
       },
       {
-        "station_id": "354927",
-        "name": "Konstanzer Stra\u00dfe 7 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9860483,
-        "lon": 8.402233333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/konstanzer-strasse-7-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "182334",
         "name": "Kramstra\u00dfe",
         "address": "Heilbronn",
@@ -2709,26 +2109,6 @@
         "lon": 8.718895912,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kreuzsteinallee/"
-        }
-      },
-      {
-        "station_id": "354728",
-        "name": "Kriegsstra\u00dfe 272 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.005735,
-        "lon": 8.373183333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kriegsstrasse-272-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354713",
-        "name": "Kriegsstra\u00dfe 290 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0054683,
-        "lon": 8.36974,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kriegsstrasse-290-stadtflitzer/"
         }
       },
       {
@@ -2772,16 +2152,6 @@
         }
       },
       {
-        "station_id": "354667",
-        "name": "Kropsburgweg 15 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0299567,
-        "lon": 8.366043333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kropsburgweg-15-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "342847",
         "name": "KSC Wildparkstadion",
         "address": "Karlsruhe",
@@ -2799,6 +2169,16 @@
         "lon": 8.367679,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kuehler-krug/"
+        }
+      },
+      {
+        "station_id": "381757",
+        "name": "Kunstakademie",
+        "address": "Karlsruhe",
+        "lat": 49.0144647,
+        "lon": 8.387331963,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/kunstakademie/"
         }
       },
       {
@@ -2839,26 +2219,6 @@
         "lon": 8.419875226,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/lachnerstrasse-gottesauer-strasse/"
-        }
-      },
-      {
-        "station_id": "354919",
-        "name": "Lamprechtstra\u00dfe 6 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0002983,
-        "lon": 8.47881,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/lamprechtstrasse-6-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354664",
-        "name": "Landauer Stra\u00dfe 4 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0307383,
-        "lon": 8.36789,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/landauer-strasse-4-stadtflitzer/"
         }
       },
       {
@@ -2909,16 +2269,6 @@
         "lon": 8.110946417,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/langstrasse/"
-        }
-      },
-      {
-        "station_id": "354645",
-        "name": "Leibnizstra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99825,
-        "lon": 8.3926,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/leibnizstrasse-2-stadtflitzer/"
         }
       },
       {
@@ -2982,16 +2332,6 @@
         }
       },
       {
-        "station_id": "354707",
-        "name": "Liebigstra\u00dfe 15 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.004185,
-        "lon": 8.370335,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/liebigstrasse-15-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "305",
         "name": "Lindenallee",
         "address": "Karlsruhe",
@@ -3009,16 +2349,6 @@
         "lon": 8.359282,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/lindenplatz-i/"
-        }
-      },
-      {
-        "station_id": "354859",
-        "name": "Links der Alb 19 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98475,
-        "lon": 8.396138333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/links-der-alb-19-stadtflitzer/"
         }
       },
       {
@@ -3052,16 +2382,6 @@
         }
       },
       {
-        "station_id": "354905",
-        "name": "Ludwig-Wilhelm-Stra\u00dfe 16 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0095567,
-        "lon": 8.423075,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ludwig-wilhelm-strasse-16-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "115956",
         "name": "Ludwigshafener Stra\u00dfe",
         "address": "Karlsruhe",
@@ -3069,36 +2389,6 @@
         "lon": 8.368337,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ludwigshafener-strasse/"
-        }
-      },
-      {
-        "station_id": "354874",
-        "name": "Luisenstra\u00dfe 113 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00042,
-        "lon": 8.4192,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/luisenstrasse-113-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354913",
-        "name": "Luisenstra\u00dfe 74 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0009867,
-        "lon": 8.415351667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/luisenstrasse-74-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354887",
-        "name": "Luisenstra\u00dfe 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0007483,
-        "lon": 8.405523333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/luisenstrasse-8-stadtflitzer/"
         }
       },
       {
@@ -3132,16 +2422,6 @@
         }
       },
       {
-        "station_id": "354726",
-        "name": "Mannheimer Stra\u00dfe 18 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.013415,
-        "lon": 8.441268333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/mannheimer-strasse-18-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "219593",
         "name": "Marie-Alexandra-Stra\u00dfe (i)",
         "address": "Karlsruhe",
@@ -3149,16 +2429,6 @@
         "lon": 8.386576,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/marie-alexandra-strasse-i/"
-        }
-      },
-      {
-        "station_id": "354892",
-        "name": "Marie-Alexandra-Stra\u00dfe 4 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99271,
-        "lon": 8.393886667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/marie-alexandra-strasse-4-stadtflitzer/"
         }
       },
       {
@@ -3212,26 +2482,6 @@
         }
       },
       {
-        "station_id": "354665",
-        "name": "Martinstra\u00dfe 10 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9896833,
-        "lon": 8.381643333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/martinstrasse-10-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354917",
-        "name": "Mathystra\u00dfe 29 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0025117,
-        "lon": 8.392941667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/mathystrasse-29-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "312",
         "name": "Max-Beckmann-Stra\u00dfe",
         "address": "Karlsruhe",
@@ -3282,36 +2532,6 @@
         }
       },
       {
-        "station_id": "354891",
-        "name": "Moltkestra\u00dfe 28 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0145983,
-        "lon": 8.392328333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/moltkestrasse-28-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354720",
-        "name": "Moltkestra\u00dfe 5A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.014435,
-        "lon": 8.394908333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/moltkestrasse-5a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354732",
-        "name": "Moltkestra\u00dfe 75A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0150983,
-        "lon": 8.376326667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/moltkestrasse-75a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "316",
         "name": "Moltkestra\u00dfe-Hochschule",
         "address": "Karlsruhe",
@@ -3329,46 +2549,6 @@
         "lon": 8.356491,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/moerscher-strasse/"
-        }
-      },
-      {
-        "station_id": "354915",
-        "name": "Mozartstra\u00dfe 10 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0138517,
-        "lon": 8.380361667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/mozartstrasse-10-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354681",
-        "name": "Murgstra\u00dfe 8A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.986105,
-        "lon": 8.391796667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/murgstrasse-8a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354869",
-        "name": "Nancystra\u00dfe 18 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0204717,
-        "lon": 8.371233333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nancystrasse-18-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354703",
-        "name": "Nancystra\u00dfe 22 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.02126,
-        "lon": 8.369551667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nancystrasse-22-stadtflitzer/"
         }
       },
       {
@@ -3392,26 +2572,6 @@
         }
       },
       {
-        "station_id": "354657",
-        "name": "Nebeniusstra\u00dfe 18 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9974583,
-        "lon": 8.406371667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nebeniusstrasse-18-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354868",
-        "name": "Nebeniusstra\u00dfe 20 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.997425,
-        "lon": 8.406696667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nebeniusstrasse-20-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "152703",
         "name": "Neckarstra\u00dfe",
         "address": "Karlsruhe",
@@ -3419,16 +2579,6 @@
         "lon": 8.391968,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/neckarstrasse/"
-        }
-      },
-      {
-        "station_id": "354857",
-        "name": "Neckarstra\u00dfe 16 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.987035,
-        "lon": 8.39388,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/neckarstrasse-16-stadtflitzer/"
         }
       },
       {
@@ -3449,16 +2599,6 @@
         "lon": 8.378986,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/neureuter-hauptstrasse/"
-        }
-      },
-      {
-        "station_id": "354929",
-        "name": "Nibelungenplatz 15 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01606,
-        "lon": 8.36678,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nibelungenplatz-15-stadtflitzer/"
         }
       },
       {
@@ -3492,26 +2632,6 @@
         }
       },
       {
-        "station_id": "354930",
-        "name": "N\u00fcrnberger Stra\u00dfe 11 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98464,
-        "lon": 8.40116,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nuernberger-strasse-11-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354883",
-        "name": "N\u00fcrnberger Stra\u00dfe 5A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9848183,
-        "lon": 8.402073333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/nuernberger-strasse-5a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "239244",
         "name": "Oberfeldstra\u00dfe",
         "address": "Karlsruhe",
@@ -3519,36 +2639,6 @@
         "lon": 8.36993,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/oberfeldstrasse/"
-        }
-      },
-      {
-        "station_id": "354687",
-        "name": "Oberlinstra\u00dfe 20 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0029333,
-        "lon": 8.475126667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/oberlinstrasse-20-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354903",
-        "name": "Oberwaldstra\u00dfe 37A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9961783,
-        "lon": 8.458745,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/oberwaldstrasse-37a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354854",
-        "name": "Oberwaldstra\u00dfe 5 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.995845,
-        "lon": 8.462663333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/oberwaldstrasse-5-stadtflitzer/"
         }
       },
       {
@@ -3592,26 +2682,6 @@
         }
       },
       {
-        "station_id": "354906",
-        "name": "Ostmarkstra\u00dfe 2C (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98876,
-        "lon": 8.460266667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ostmarkstrasse-2c-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354862",
-        "name": "Ostmarkstra\u00dfe 44 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99053,
-        "lon": 8.455006667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ostmarkstrasse-44-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "154436",
         "name": "Otto-Sachs-Stra\u00dfe (i)",
         "address": "Karlsruhe",
@@ -3629,6 +2699,16 @@
         "lon": 8.362879,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/otto-wels-strasse/"
+        }
+      },
+      {
+        "station_id": "376383",
+        "name": "Palmbach / Talstra\u00dfe",
+        "address": "Karlsruhe",
+        "lat": 48.946475,
+        "lon": 8.480903,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/palmbach-talstrasse/"
         }
       },
       {
@@ -3702,16 +2782,6 @@
         }
       },
       {
-        "station_id": "354908",
-        "name": "Philipp-Reis-Stra\u00dfe 3 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0046767,
-        "lon": 8.412765,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/philipp-reis-strasse-3-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "325",
         "name": "Pionierstra\u00dfe",
         "address": "Karlsruhe",
@@ -3742,16 +2812,6 @@
         }
       },
       {
-        "station_id": "354723",
-        "name": "Postweg 16 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0244533,
-        "lon": 8.368608333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/postweg-16-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "177833",
         "name": "Prefagstra\u00dfe",
         "address": "Walzbachtal",
@@ -3779,16 +2839,6 @@
         "lon": 8.430418968,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/ragoldspark/"
-        }
-      },
-      {
-        "station_id": "354902",
-        "name": "Rahel-Straus-Stra\u00dfe 12 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00097,
-        "lon": 8.41984,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rahel-straus-strasse-12-stadtflitzer/"
         }
       },
       {
@@ -4002,6 +3052,16 @@
         }
       },
       {
+        "station_id": "368852",
+        "name": "Rathausplatz",
+        "address": "Weingarten (Baden)",
+        "lat": 49.051638,
+        "lon": 8.531305,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rathausplatz-1/"
+        }
+      },
+      {
         "station_id": "333",
         "name": "Rathausstra\u00dfe",
         "address": "Karlsruhe",
@@ -4019,16 +3079,6 @@
         "lon": 8.508906,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rebgaertenstrasse/"
-        }
-      },
-      {
-        "station_id": "354870",
-        "name": "Rechts der Alb 21 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.98599,
-        "lon": 8.397568333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rechts-der-alb-21-stadtflitzer/"
         }
       },
       {
@@ -4062,26 +3112,6 @@
         }
       },
       {
-        "station_id": "354916",
-        "name": "Rheinstra\u00dfe 22 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0114133,
-        "lon": 8.362356667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rheinstrasse-22-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354877",
-        "name": "Rheinstra\u00dfe 5 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.011285,
-        "lon": 8.364261667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rheinstrasse-5-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "336",
         "name": "Rhode-Island-Allee",
         "address": "Karlsruhe",
@@ -4089,36 +3119,6 @@
         "lon": 8.387564,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rhode-island-allee/"
-        }
-      },
-      {
-        "station_id": "354658",
-        "name": "Rhode-Island-Allee 11 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.02153,
-        "lon": 8.38636,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rhode-island-allee-11-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354708",
-        "name": "Rhode-Island-Allee 57 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0253033,
-        "lon": 8.387536667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rhode-island-allee-57-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354871",
-        "name": "Rhode-Island-Allee 82 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.027845,
-        "lon": 8.38808,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rhode-island-allee-82-stadtflitzer/"
         }
       },
       {
@@ -4132,36 +3132,6 @@
         }
       },
       {
-        "station_id": "354879",
-        "name": "Rintheimer Hauptstra\u00dfe 152 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01867,
-        "lon": 8.44815,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-hauptstrasse-152-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354722",
-        "name": "Rintheimer Hauptstra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0116583,
-        "lon": 8.440798333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-hauptstrasse-2-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354696",
-        "name": "Rintheimer Hauptstra\u00dfe 3A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01166,
-        "lon": 8.44123,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-hauptstrasse-3a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "337",
         "name": "Rintheimer Hauptstra\u00dfe Parkplatz",
         "address": "Karlsruhe",
@@ -4169,36 +3139,6 @@
         "lon": 8.440361413,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-hauptstrasse/"
-        }
-      },
-      {
-        "station_id": "354710",
-        "name": "Rintheimer Stra\u00dfe 21 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0111283,
-        "lon": 8.426811667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-strasse-21-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354704",
-        "name": "Rintheimer Stra\u00dfe 34 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01121,
-        "lon": 8.427181667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-strasse-34-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354690",
-        "name": "Rintheimer Stra\u00dfe 46 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0113167,
-        "lon": 8.429558333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rintheimer-strasse-46-stadtflitzer/"
         }
       },
       {
@@ -4272,26 +3212,6 @@
         }
       },
       {
-        "station_id": "354889",
-        "name": "Rudolfstra\u00dfe 14 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0095,
-        "lon": 8.422006667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rudolfstrasse-14-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354926",
-        "name": "Rudolfstra\u00dfe 31 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0082867,
-        "lon": 8.422141667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/rudolfstrasse-31-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "340",
         "name": "R\u00fcppurrer Stra\u00dfe Tiefgarage",
         "address": "Karlsruhe",
@@ -4312,23 +3232,13 @@
         }
       },
       {
-        "station_id": "354890",
-        "name": "Scherrstra\u00dfe 16 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.999365,
-        "lon": 8.414423333,
+        "station_id": "359373",
+        "name": "Schellingstra\u00dfe",
+        "address": "Pforzheim",
+        "lat": 48.881983,
+        "lon": 8.700823,
         "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/scherrstrasse-16-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354691",
-        "name": "Schirmerstra\u00dfe 3 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0131,
-        "lon": 8.39051,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/schirmerstrasse-3-stadtflitzer/"
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/schellingstrasse/"
         }
       },
       {
@@ -4339,16 +3249,6 @@
         "lon": 8.451479,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/schlesier-strasse/"
-        }
-      },
-      {
-        "station_id": "354670",
-        "name": "Schlesier Stra\u00dfe 69 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.988555,
-        "lon": 8.449721667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/schlesier-strasse-69-stadtflitzer/"
         }
       },
       {
@@ -4452,16 +3352,6 @@
         }
       },
       {
-        "station_id": "354686",
-        "name": "Seldeneckstra\u00dfe 38 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01385,
-        "lon": 8.36769,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/seldeneckstrasse-38-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "223802",
         "name": "Seubertstra\u00dfe (i)",
         "address": "Karlsruhe",
@@ -4499,56 +3389,6 @@
         "lon": 8.357634544,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sonnenstrasse/"
-        }
-      },
-      {
-        "station_id": "354727",
-        "name": "Sophienstra\u00dfe 105 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0078383,
-        "lon": 8.381075,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sophienstrasse-105-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354684",
-        "name": "Sophienstra\u00dfe 125 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0079633,
-        "lon": 8.379148333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sophienstrasse-125-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354725",
-        "name": "Sophienstra\u00dfe 135 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0079767,
-        "lon": 8.377711667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sophienstrasse-135-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354672",
-        "name": "Sophienstra\u00dfe 149 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.008255,
-        "lon": 8.374655,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sophienstrasse-149-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354920",
-        "name": "Sophienstra\u00dfe 22-24 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.006855,
-        "lon": 8.391878333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sophienstrasse-22-24-stadtflitzer/"
         }
       },
       {
@@ -4652,16 +3492,6 @@
         }
       },
       {
-        "station_id": "354924",
-        "name": "Staudingerstra\u00dfe 13 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00934,
-        "lon": 8.361518333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/staudingerstrasse-13-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "324879",
         "name": "Staufenbergweg",
         "address": "Karlsruhe",
@@ -4712,26 +3542,6 @@
         }
       },
       {
-        "station_id": "354660",
-        "name": "Steubenstra\u00dfe 4A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0160317,
-        "lon": 8.359166667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/steubenstrasse-4a-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354709",
-        "name": "Stra\u00dfe ohne Stra\u00dfennamen (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.04377,
-        "lon": 8.349346667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/strasse-ohne-strassennamen-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "191973",
         "name": "Stresemannstra\u00dfe",
         "address": "Karlsruhe",
@@ -4739,6 +3549,16 @@
         "lon": 8.373084,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/stresemannstrasse/"
+        }
+      },
+      {
+        "station_id": "366703",
+        "name": "Strietweg",
+        "address": "Pforzheim",
+        "lat": 48.883843,
+        "lon": 8.72769,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/strietweg/"
         }
       },
       {
@@ -4772,16 +3592,6 @@
         }
       },
       {
-        "station_id": "354730",
-        "name": "Stuttgarter Stra\u00dfe 27c (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99987,
-        "lon": 8.418918333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/stuttgarter-strasse-27c-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "154437",
         "name": "S\u00fcdendstra\u00dfe (i)",
         "address": "Karlsruhe",
@@ -4812,16 +3622,6 @@
         }
       },
       {
-        "station_id": "354676",
-        "name": "Sulzfelder Stra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01829,
-        "lon": 8.44501,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sulzfelder-strasse-2-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "221250",
         "name": "SWE Hertzstra\u00dfe",
         "address": "Ettlingen",
@@ -4839,16 +3639,6 @@
         "lon": 8.225645,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/swr-ernst-becker-strasse/"
-        }
-      },
-      {
-        "station_id": "354701",
-        "name": "Sybelstra\u00dfe 18 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9990117,
-        "lon": 8.415586667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/sybelstrasse-18-stadtflitzer/"
         }
       },
       {
@@ -4879,16 +3669,6 @@
         "lon": 8.520012,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/tannenstrasse/"
-        }
-      },
-      {
-        "station_id": "354900",
-        "name": "Tannh\u00e4userstra\u00dfe 11 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01561,
-        "lon": 8.36554,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/tannhaeuserstrasse-11-stadtflitzer/"
         }
       },
       {
@@ -4942,26 +3722,6 @@
         }
       },
       {
-        "station_id": "354715",
-        "name": "Tristanstra\u00dfe 12 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.014905,
-        "lon": 8.366516667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/tristanstrasse-12-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354866",
-        "name": "Tullastra\u00dfe 57 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0094633,
-        "lon": 8.432036667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/tullastrasse-57-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "150522",
         "name": "Tulpenstra\u00dfe",
         "address": "Karlsruhe",
@@ -4972,7 +3732,7 @@
         }
       },
       {
-        "station_id": "217",
+        "station_id": "378082",
         "name": "Turmstra\u00dfe",
         "address": "Heilbronn",
         "lat": 49.1457836,
@@ -4989,16 +3749,6 @@
         "lon": 8.336321,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/turnerstrasse/"
-        }
-      },
-      {
-        "station_id": "354706",
-        "name": "Uhlandstra\u00dfe 8 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01031,
-        "lon": 8.375485,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/uhlandstrasse-8-stadtflitzer/"
         }
       },
       {
@@ -5019,26 +3769,6 @@
         "lon": 9.220662117,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/urbanstrasse-1/"
-        }
-      },
-      {
-        "station_id": "354880",
-        "name": "Veilchenstra\u00dfe 10 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0103517,
-        "lon": 8.4282,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/veilchenstrasse-10-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354876",
-        "name": "Veilchenstra\u00dfe 18 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0097083,
-        "lon": 8.427881667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/veilchenstrasse-18-stadtflitzer/"
         }
       },
       {
@@ -5089,16 +3819,6 @@
         "lon": 8.11185411,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/virchowstrasse/"
-        }
-      },
-      {
-        "station_id": "354682",
-        "name": "Virchowstra\u00dfe 2 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.01299,
-        "lon": 8.37921,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/virchowstrasse-2-stadtflitzer/"
         }
       },
       {
@@ -5222,16 +3942,6 @@
         }
       },
       {
-        "station_id": "354922",
-        "name": "Weinbrennerstra\u00dfe 67 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0087433,
-        "lon": 8.365248333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/weinbrennerstrasse-67-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "367",
         "name": "Weingartener Stra\u00dfe",
         "address": "Karlsruhe",
@@ -5272,16 +3982,6 @@
         }
       },
       {
-        "station_id": "354884",
-        "name": "Welfenstra\u00dfe 1 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9958683,
-        "lon": 8.395358333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/welfenstrasse-1-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "154447",
         "name": "Weltzienstra\u00dfe (i)",
         "address": "Karlsruhe",
@@ -5289,26 +3989,6 @@
         "lon": 8.370948,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/weltzienstrasse/"
-        }
-      },
-      {
-        "station_id": "354652",
-        "name": "Werderplatz 25 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00151,
-        "lon": 8.406076667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/werderplatz-25-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354685",
-        "name": "Werderstra\u00dfe 27 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.001605,
-        "lon": 8.406236667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/werderstrasse-27-stadtflitzer/"
         }
       },
       {
@@ -5372,36 +4052,6 @@
         }
       },
       {
-        "station_id": "354677",
-        "name": "Wilferdinger Stra\u00dfe 13 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9936967,
-        "lon": 8.450648333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilferdinger-strasse-13-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354716",
-        "name": "Wilferdinger Stra\u00dfe 16 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99333,
-        "lon": 8.450455,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilferdinger-strasse-16-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354867",
-        "name": "Wilferdinger Stra\u00dfe 17 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.99315,
-        "lon": 8.45053,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilferdinger-strasse-17-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "371",
         "name": "Wilhelm-Baur-Stra\u00dfe",
         "address": "Karlsruhe",
@@ -5412,16 +4062,6 @@
         }
       },
       {
-        "station_id": "354650",
-        "name": "Wilhelm-Baur-Stra\u00dfe 4 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0034383,
-        "lon": 8.370605,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilhelm-baur-strasse-4-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "156512",
         "name": "Wilhelmstra\u00dfe",
         "address": "Ettlingen",
@@ -5429,16 +4069,6 @@
         "lon": 8.41056207,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilhelmstrasse/"
-        }
-      },
-      {
-        "station_id": "354693",
-        "name": "Wilhelmstra\u00dfe 38 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00096,
-        "lon": 8.40568,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wilhelmstrasse-38-stadtflitzer/"
         }
       },
       {
@@ -5472,16 +4102,6 @@
         }
       },
       {
-        "station_id": "354731",
-        "name": "Winterstra\u00dfe 15 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 48.9983083,
-        "lon": 8.40623,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/winterstrasse-15-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "374",
         "name": "Wormser Stra\u00dfe",
         "address": "Karlsruhe",
@@ -5502,16 +4122,6 @@
         }
       },
       {
-        "station_id": "354675",
-        "name": "W\u00f6rthstra\u00dfe 11A (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0135233,
-        "lon": 8.395568333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/woerthstrasse-11a-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "219832",
         "name": "W\u00f6rthstra\u00dfe Karlsruhe (i)",
         "address": "Karlsruhe",
@@ -5519,16 +4129,6 @@
         "lon": 8.395765,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/woerthstrasse-karlsruhe-i/"
-        }
-      },
-      {
-        "station_id": "354680",
-        "name": "Wotanstra\u00dfe 1 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.0141483,
-        "lon": 8.377646667,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/wotanstrasse-1-stadtflitzer/"
         }
       },
       {
@@ -5552,26 +4152,6 @@
         }
       },
       {
-        "station_id": "354909",
-        "name": "Yorckstra\u00dfe 52 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.006835,
-        "lon": 8.370313333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/yorckstrasse-52-stadtflitzer/"
-        }
-      },
-      {
-        "station_id": "354910",
-        "name": "Yorckstra\u00dfe 53 (stadtflitzer)",
-        "address": "Karlsruhe",
-        "lat": 49.00691,
-        "lon": 8.370633333,
-        "rental_uris": {
-          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/yorckstrasse-53-stadtflitzer/"
-        }
-      },
-      {
         "station_id": "1944",
         "name": "Z\u00e4hringerstra\u00dfe Tiefgarage",
         "address": "Karlsruhe",
@@ -5579,6 +4159,16 @@
         "lon": 8.407952,
         "rental_uris": {
           "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/zaehringerstrasse/"
+        }
+      },
+      {
+        "station_id": "378454",
+        "name": "Zentrum Schloss Parkhaus",
+        "address": "Ettlingen",
+        "lat": 48.94161,
+        "lon": 8.406209529,
+        "rental_uris": {
+          "web": "https://karlsruhe.stadtmobil.de/privatkunden/stationen/station/zentrum-schloss-parkhaus/"
         }
       },
       {
@@ -5613,7 +4203,7 @@
       }
     ]
   },
-  "last_updated": 1650956022,
+  "last_updated": 1667467810,
   "ttl": 60000,
   "version": "2.2"
 }

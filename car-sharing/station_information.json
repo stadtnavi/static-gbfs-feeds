@@ -122,16 +122,6 @@
         }
       },
       {
-        "station_id": "253657",
-        "name": "Bahnhof - Filderbahnstr.",
-        "address": "Leinfelden-Echterdingen",
-        "lat": 48.691934,
-        "lon": 9.169366,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/bahnhof-filderbahnstr/"
-        }
-      },
-      {
         "station_id": "351493",
         "name": "Bahnhof / Karlstra\u00dfe",
         "address": "Ludwigsburg",
@@ -312,13 +302,13 @@
         }
       },
       {
-        "station_id": "253758",
-        "name": "Charlottenplatz",
+        "station_id": "409448",
+        "name": "Cannstatt Klinikum",
         "address": "Stuttgart",
-        "lat": 48.774769,
-        "lon": 9.182171,
+        "lat": 48.8112481,
+        "lon": 9.237301634,
         "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/charlottenplatz-1/"
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/cannstatt-klinikum/"
         }
       },
       {
@@ -329,6 +319,16 @@
         "lon": 9.316718,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/charlottenplatz/"
+        }
+      },
+      {
+        "station_id": "253758",
+        "name": "Charlottenplatz",
+        "address": "Stuttgart",
+        "lat": 48.774769,
+        "lon": 9.182171,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/charlottenplatz-1/"
         }
       },
       {
@@ -349,16 +349,6 @@
         "lon": 9.167602,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/degerloch-bahnhof-zob/"
-        }
-      },
-      {
-        "station_id": "253808",
-        "name": "Degerlocher Stra\u00dfe",
-        "address": "Stuttgart",
-        "lat": 48.74141,
-        "lon": 9.153984,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/degerlocher-strasse/"
         }
       },
       {
@@ -402,13 +392,23 @@
         }
       },
       {
-        "station_id": "253815",
-        "name": "Ebersbacher Stra\u00dfe",
+        "station_id": "379309",
+        "name": "D\u00fcrrlewang Stadtbahn",
         "address": "Stuttgart",
-        "lat": 48.77582,
-        "lon": 9.24246311,
+        "lat": 48.7194408,
+        "lon": 9.117539432,
         "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ebersbacher-strasse/"
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/duerrlewang-stadtbahn/"
+        }
+      },
+      {
+        "station_id": "423660",
+        "name": "Echterdingen Bahnhof",
+        "address": "Leinfelden-Echterdingen",
+        "lat": 48.691847,
+        "lon": 9.168865,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/echterdingen-bahnhof/"
         }
       },
       {
@@ -679,16 +679,6 @@
         "lon": 9.208086,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gablenberg-klingenstr/"
-        }
-      },
-      {
-        "station_id": "253750",
-        "name": "Gablenberg / Schmalzmarkt",
-        "address": "Stuttgart",
-        "lat": 48.7743962,
-        "lon": 9.20339674,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/gablenberg-schmalzmarkt/"
         }
       },
       {
@@ -1162,26 +1152,6 @@
         }
       },
       {
-        "station_id": "253681",
-        "name": "K\u00fcbler Areal",
-        "address": "Stuttgart",
-        "lat": 48.781752,
-        "lon": 9.206816,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/kuebler-areal/"
-        }
-      },
-      {
-        "station_id": "320697",
-        "name": "Leinfelden Bahnhof (Daimlerstr.)",
-        "address": "Leinfelden-Echterdingen",
-        "lat": 48.697613,
-        "lon": 9.143893,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/leinfelden-bahnhof-daimlerstr/"
-        }
-      },
-      {
         "station_id": "253655",
         "name": "Leinfelden Bahnhof (P+R)",
         "address": "Leinfelden-Echterdingen",
@@ -1189,16 +1159,6 @@
         "lon": 9.142473042,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/leinfelden-bahnhof/"
-        }
-      },
-      {
-        "station_id": "253654",
-        "name": "Leinfelden Kirchstra\u00dfe",
-        "address": "Leinfelden-Echterdingen",
-        "lat": 48.692522,
-        "lon": 9.13912296,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/leinfelden-kirchstrasse/"
         }
       },
       {
@@ -1282,16 +1242,6 @@
         }
       },
       {
-        "station_id": "253656",
-        "name": "Maiergasse (Zehntscheuer)",
-        "address": "Leinfelden-Echterdingen",
-        "lat": 48.6897182,
-        "lon": 9.16771196,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/maiergasse-zehntscheuer/"
-        }
-      },
-      {
         "station_id": "848",
         "name": "Marbach Bahnhof",
         "address": "Marbach",
@@ -1349,6 +1299,16 @@
         "lon": 9.1893319,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/milchhof-eckartstrasse/"
+        }
+      },
+      {
+        "station_id": "363622",
+        "name": "Milchhof UFA Parkplatz",
+        "address": "Stuttgart",
+        "lat": 48.792468,
+        "lon": 9.190682,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/urlaubsstation-milchhof/"
         }
       },
       {
@@ -1502,6 +1462,16 @@
         }
       },
       {
+        "station_id": "424860",
+        "name": "Oberaichen Bahnhof",
+        "address": "Leinfelden-Echterdingen",
+        "lat": 48.704524,
+        "lon": 9.128654,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/oberaichen-bahnhof/"
+        }
+      },
+      {
         "station_id": "253816",
         "name": "Obere Waiblinger Stra\u00dfe 147",
         "address": "Stuttgart",
@@ -1539,6 +1509,16 @@
         "lon": 9.267010689,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/obertuerkheim-bahnhof-park-ride-platz/"
+        }
+      },
+      {
+        "station_id": "409447",
+        "name": "Oderstra\u00dfe",
+        "address": "Ludwigsburg",
+        "lat": 48.8783272,
+        "lon": 9.214632377,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/oderstrasse/"
         }
       },
       {
@@ -1639,6 +1619,16 @@
         "lon": 9.312415,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/palmscher-park/"
+        }
+      },
+      {
+        "station_id": "387888",
+        "name": "Parkhaus Kongresshalle",
+        "address": "B\u00f6blingen",
+        "lat": 48.683241,
+        "lon": 9.010619,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/parkhaus-kongresshalle/"
         }
       },
       {
@@ -1872,6 +1862,16 @@
         }
       },
       {
+        "station_id": "419214",
+        "name": "Sattlerstra\u00dfe 25 Klinikum",
+        "address": "Stuttgart",
+        "lat": 48.7843648,
+        "lon": 9.169755961,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sattlerstrasse-25-klinikum/"
+        }
+      },
+      {
         "station_id": "253741",
         "name": "Scharrstra\u00dfe",
         "address": "Stuttgart",
@@ -2092,6 +2092,16 @@
         }
       },
       {
+        "station_id": "409449",
+        "name": "Silberburg- / Breitscheidstra\u00dfe",
+        "address": "Stuttgart",
+        "lat": 48.777882,
+        "lon": 9.163441971,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/silberburg-breitscheidstrasse/"
+        }
+      },
+      {
         "station_id": "253818",
         "name": "Silberburg- / Ludwigstra\u00dfe",
         "address": "Stuttgart",
@@ -2129,6 +2139,16 @@
         "lon": 9.245756865,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sommerrain/"
+        }
+      },
+      {
+        "station_id": "410842",
+        "name": "Sonnenberg Hallenbad",
+        "address": "Stuttgart",
+        "lat": 48.739249,
+        "lon": 9.15122,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/sonnenberg-hallenbad/"
         }
       },
       {
@@ -2282,16 +2302,6 @@
         }
       },
       {
-        "station_id": "363622",
-        "name": "Urlaubsstation Milchhof",
-        "address": "Stuttgart",
-        "lat": 48.792468,
-        "lon": 9.190682,
-        "rental_uris": {
-          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/urlaubsstation-milchhof/"
-        }
-      },
-      {
         "station_id": "253670",
         "name": "Vaihingen Bahnhof / Schockenriedstra\u00dfe",
         "address": "Stuttgart",
@@ -2345,8 +2355,8 @@
         "station_id": "819",
         "name": "Vordere Stra\u00dfe",
         "address": "Fellbach",
-        "lat": 48.805436,
-        "lon": 9.279676,
+        "lat": 48.80538,
+        "lon": 9.2793,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/vordere-strasse/"
         }
@@ -2379,6 +2389,16 @@
         "lon": 9.171202183,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/waldenbucher-platz/"
+        }
+      },
+      {
+        "station_id": "253815",
+        "name": "Wasenstra\u00dfe",
+        "address": "Stuttgart",
+        "lat": 48.7763549,
+        "lon": 9.243469201,
+        "rental_uris": {
+          "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/ebersbacher-strasse/"
         }
       },
       {
@@ -2445,8 +2465,8 @@
         "station_id": "1003",
         "name": "Winnenden Bahnhof",
         "address": "Winnenden",
-        "lat": 48.879306,
-        "lon": 9.391533,
+        "lat": 48.879852,
+        "lon": 9.392067,
         "rental_uris": {
           "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/winnenden-bahnhof/"
         }
@@ -2523,7 +2543,7 @@
       }
     ]
   },
-  "last_updated": 1655720312,
+  "last_updated": 1667467811,
   "ttl": 60000,
   "version": "2.2"
 }
