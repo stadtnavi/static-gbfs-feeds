@@ -1,0 +1,15 @@
+{
+  "last_updated": 1733949000,
+  "ttl": 864000,
+  "version": "2.2",
+  "data": {
+    "language": "de",
+    "name": "stadtRad - das stadtnavi Lastenrad",
+    "operator": "Stadt Herrenberg",
+    "system_id": "stadtrad_hbg",
+    "timezone": "Europe/Berlin",
+    "url": "https://www.herrenberg.de/Mobilität/Leihbares-Lastenrad",
+    "feed_contact_mail": "support@herrenberg.stadtnavi.de",
+    "mail": "kus@herrenberg.de"
+  }
+}

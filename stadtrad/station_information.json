@@ -1,0 +1,24 @@
+{
+  "last_updated": 1733949000,
+  "ttl": 864000,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "lat": 48.597547,
+        "lon": 8.867634,
+        "name": "stadtRad - das stadtnavi Lastenrad",
+        "station_id": "technisches_rathaus",
+        "address": "Technisches Rathaus am Seeländerplatz 3",
+        "post_code": "70183",
+        "city": "Herrenberg",
+        "vehicle_type_capacity": {
+          "cargobike1": 1
+        },
+        "rental_uris": {
+          "web": "https://www.herrenberg.de/Mobilität/Leihbares-Lastenrad"
+        }
+      }
+    ]
+  }
+}

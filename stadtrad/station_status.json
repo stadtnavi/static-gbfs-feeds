@@ -1,0 +1,21 @@
+{
+  "last_updated": 1733949000,
+  "ttl": 864000,
+  "version": "2.2",
+  "data": {
+    "stations": [
+      {
+        "num_bikes_available": 1,
+        "last_reported": 1621036800,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "station_id": "technisches_rathaus",
+        "vehicle_types_available": [{
+          "vehicle_type_id": "cargobike1",
+          "count": 1
+        }]
+      }
+    ]
+  }
+}

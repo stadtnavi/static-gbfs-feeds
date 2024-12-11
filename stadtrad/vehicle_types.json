@@ -1,0 +1,16 @@
+{
+  "last_updated": 1733949000,
+  "ttl": 864000,
+  "version": "2.2",
+  "data": {
+    "vehicle_types": [ 
+    	{
+	    	"name": "Lastenrad",
+	    	"vehicle_type_id": "cargobike1",
+	    	"form_factor": "other",
+	    	"max_range_meters": 25000,
+	    	"propulsion_type": "electric_assist"
+	    }
+	]
+  }
+}
