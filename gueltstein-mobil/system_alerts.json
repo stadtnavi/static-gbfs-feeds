@@ -1,7 +1,7 @@
 {
-  "last_updated": 1621036800,
-  "ttl": 60,
-  "version": "2.2",
+  "last_updated": 1741710951,
+  "ttl": 86400,
+  "version": "2.3",
   "data":{
     "alerts":[
       {

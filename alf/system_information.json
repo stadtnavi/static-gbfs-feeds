@@ -1,12 +1,12 @@
 {
-  "last_updated": 1621036800,
+  "last_updated": 1741710951,
   "ttl": 86400,
-  "version": "2.2",
+  "version": "2.3",
   "data": {
     "language": "de",
     "name": "ALF Lastenrad Affstätt",
     "operator": "adfc Böblingen/Affstätter Bürgerschaft",
-    "system_id": "cargo-bike",
+    "system_id": "de.stadtnavi.gbfs.alf",
     "timezone": "Europe/Berlin",
     "url": "https://www.adfc-bw.de/boeblingen/",
     "feed_contact_mail": "support@herrenberg.stadtnavi.de",

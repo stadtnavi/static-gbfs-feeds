@@ -1,22 +1,23 @@
 {
-  "last_updated": 1621036800,
+  "last_updated": 1741710951,
   "ttl": 86400,
-  "version": "2.2",
+  "version": "2.3",
   "data": {
     "stations": [
       {
-        "lat": 48.5961618,
-        "lon": 8.8701961,
-        "name": "E-Lastenrad FaRe",
+        "lat": 48.59679,
+        "lon": 8.850656,
+        "name": "E-Lastenrad FaRe, Schwarzwaldsiedlung",
         "station_id": "fare",
-        "address": "Markthalle Herrenberg, Marktplatz 8",
+        "address": "Kiefernweg 12",
         "post_code": "70183",
+        "city": "Herrenberg",
         "is_virtual_station": true,
         "vehicle_type_capacity": {
           "cargobike1": 1
         },
         "rental_uris": {
-          "web": "https://www.herrenberg.de/fairtrade"
+          "web": "https://bananologen-herrenberg.jimdosite.com/"
         }
       }
     ]

@@ -1,7 +1,7 @@
 {
-  "last_updated": 1733949000,
+  "last_updated": 1741710951,
   "ttl": 864000,
-  "version": "2.2",
+  "version": "2.3",
   "data": {
     "stations": [
       {
@@ -16,7 +16,7 @@
           "cargobike1": 1
         },
         "rental_uris": {
-          "web": "https://www.herrenberg.de/Mobilität/Leihbares-Lastenrad"
+          "web": "https://www.herrenberg.de/Lastenrad"
         }
       }
     ]
